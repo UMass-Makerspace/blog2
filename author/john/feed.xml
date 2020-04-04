@@ -2,21 +2,21 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
-  <link href="/jasper2/author/john/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="/jasper2/" rel="alternate" type="text/html" />
-  <updated>2019-03-14T12:15:42+00:00</updated>
-  <id>/jasper2/author/john/feed.xml</id>
+  <link href="/blog2/author/john/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="/blog2/" rel="alternate" type="text/html" />
+  <updated>2020-04-04T18:17:33+00:00</updated>
+  <id>/blog2/author/john/feed.xml</id>
 
   
   
   
 
   
-    <title type="html">Ghost | </title>
+    <title type="html">UMass Amherst Makerspace | </title>
   
 
   
-    <subtitle>The professional publishing platform</subtitle>
+    <subtitle>Blog for makers.</subtitle>
   
 
   
@@ -45,11 +45,11 @@
   
     <entry>
       <title type="html">A Full and Comprehensive Style Test</title>
-      <link href="/jasper2/a-full-and-comprehensive-style-test" rel="alternate" type="text/html" title="A Full and Comprehensive Style Test" />
+      <link href="/blog2/a-full-and-comprehensive-style-test" rel="alternate" type="text/html" title="A Full and Comprehensive Style Test" />
       <published>2012-09-01T10:00:00+00:00</published>
       <updated>2012-09-01T10:00:00+00:00</updated>
-      <id>/jasper2/a-full-and-comprehensive-style-test</id>
-      <content type="html" xml:base="/jasper2/a-full-and-comprehensive-style-test">&lt;p&gt;Below is just about everything you’ll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.&lt;/p&gt;
+      <id>/blog2/a-full-and-comprehensive-style-test</id>
+      <content type="html" xml:base="/blog2/a-full-and-comprehensive-style-test">&lt;p&gt;Below is just about everything you’ll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.&lt;/p&gt;
 
 
 &lt;hr /&gt;
