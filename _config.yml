@@ -14,7 +14,7 @@ description: Blog for makers.
 cover: assets/images/blog-cover.jpg
 logo: assets/images/makerspace-logo.png
 logo_dark: assets/images/makerspace-logo.png
-favicon: assets/images/favicon-invert.png
+favicon: assets/images/favicon-invert.ico
 production_url: https://umass-makerspace.github.io/blog2/
 source_url: https://github.com/umass-makerspace/blog2/
 CNAME: #add cname for website to be created
