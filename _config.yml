@@ -12,9 +12,9 @@ baseurl: /blog2/
 title: UMass Amherst Makerspace
 description: Blog for makers.
 cover: assets/images/blog-cover.jpg
-logo: assets/images/blog-icon.png
-logo_dark: assets/images/favicon.png
-favicon: assets/images/favicon.png
+logo: assets/images/makerspace-logo.png
+logo_dark: assets/images/makerspace-logo.png
+favicon: assets/images/favicon-invert.png
 production_url: https://umass-makerspace.github.io/blog2/
 source_url: https://github.com/umass-makerspace/blog2/
 CNAME: #add cname for website to be created
@@ -24,8 +24,8 @@ navigation: True # show the navbar links
 subscribers: True # you need to connect an external service for this to work,
 # if 'True' the submit button is disabled for now, but you can change that
 # by editing `_includes/subscribe-form.html`
-twitter: tryghost # replace by your username
-facebook: ghost # replace by your username
+twitter: # replace by your username
+facebook: allcampusmakerspace # replace by your username
 
 # Disqus
 disqus: False
@@ -70,12 +70,12 @@ feed:
 safe: False
 lsi: False
 username: umass-makerspace
-repo: blog2
+repo: blog
 branch: master
-relative_source: ../blog2/
-destination: ../blog2-pages/
-production_url:  https://umass-makerspace.github.io/blog2/
-source_url:  https://github.com/umass-makerspace/blog2/
+relative_source: ../blog/
+destination: ../blog-pages/
+production_url:  https://umass-makerspace.github.io/blog/
+source_url:  https://github.com/umass-makerspace/blog/
 
 exclude:
   - assets/css
