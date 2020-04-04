@@ -72,10 +72,10 @@ lsi: False
 username: umass-makerspace
 repo: blog
 branch: master
-relative_source: ../blog/
-destination: ../blog-pages/
-production_url:  https://umass-makerspace.github.io/blog/
-source_url:  https://github.com/umass-makerspace/blog/
+relative_source: ../blog2/
+destination: ../blog2-pages/
+production_url:  https://umass-makerspace.github.io/blog2/
+source_url:  https://github.com/umass-makerspace/blog2/
 
 exclude:
   - assets/css
