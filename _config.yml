@@ -2,21 +2,21 @@
 markdown: kramdown
 highlighter: rouge
 paginate: 100 # it will paginate after this number
-language: 'en-uk'
+language: 'en-us'
 words_per_minute: 200
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /jasper2/
+baseurl: /blog2/
 
 # Website info
-title: Ghost
-description: The professional publishing platform
+title: UMass Amherst Makerspace
+description: Blog for makers.
 cover: assets/images/blog-cover.jpg
 logo: assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
-production_url: https://jekyller.github.io/jasper2/
-source_url: https://github.com/jekyller/jasper2/
+production_url: https://umass-makerspace.github.io/blog2/
+source_url: https://github.com/umass-makerspace/blog2/
 CNAME: #add cname for website to be created
 
 # Social info
@@ -32,7 +32,7 @@ disqus: False
 disqus_shortname: jekyller # replace with your disqus username
 
 # Google Analytics
-google_analytics: UA-69281367-1 # replace with your GA tracking identifier
+# google_analytics: UA-69281367-1 # replace with your GA tracking identifier
 
 # Permalinks
 permalink: /:title
@@ -69,13 +69,13 @@ feed:
 # or "master" otherwise
 safe: False
 lsi: False
-username: jekyller
-repo: jasper2
+username: umass-makerspace
+repo: blog2
 branch: master
-relative_source: ../jasper2/
-destination: ../jasper2-pages/
-production_url:  https://jekyller.github.io/jasper2/
-source_url:  https://github.com/jekyller/jasper2/
+relative_source: ../blog2/
+destination: ../blog2-pages/
+production_url:  https://umass-makerspace.github.io/blog2/
+source_url:  https://github.com/umass-makerspace/blog2/
 
 exclude:
   - assets/css
