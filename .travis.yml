@@ -3,21 +3,12 @@ language: ruby
 cache: bundler
 rvm:
 - 2.5.1
-
 install:
-  # Install Jekyll and dependencies
-  - bundle install
-
-script: bundle exec rake site:deploy --quiet #--trace
-
-# Generate your secure token with the travis gem:
-# get Github token from your Travis CI profile page
-# gem install travis
-# GH_TOKEN from https://github.com/settings/tokens
-# travis encrypt 'GIT_NAME="YOUR_USERNAME" GIT_EMAIL="YOUR_EMAIL" GH_TOKEN=YOUR_TOKEN'
+- bundle install
+script: bundle exec rake site:deploy --quiet
 env:
   global:
-    secure: "hGpEWbQXMoZDTKAyG4AEKT/Q8CzjJ7TAT4ZDKDmYsIeDjw9IYLVpG9dMArpguHP9eHzcZn1sX/WTWLm8d1fdBGZgUXcKOXb1b8SFKd/A9SNJhIAYlpW9xde6LgUpbOywFfbH93+vkXGiHTxbvdf5ESRrYD8wGGgTKSUAv7/2IPaA9Ea3JX2XMT0v4MIAIndat5SDrcjgLasHev7P8hQo8k4Rjx94axbJUHKImDPl+sAwCtrD3kWikAGwcrnBNoaYw8QBj6tG3XH4RbAbSu4U5GKABOBJNbSq5R9W7jdvTY81oxH/PWTOeIeQBQQk+ekRrtb/GTdVBrLVuevs++63EW5OEARZJCpLLliD/NszhuxNHh7PgNJvO4rLjnxZk3b/QbjbNXzsACFKI0WU0PEaYeGxNB+2oVRuMyw4gtO7DVcCTO1ZC/zsO/DOoajzbsenpn76PR0JykeNcu8u3YvNG2sD9NoUFAtw9bzJK1/PaYNhOL1sF9EUBVqUE9aZYGbp1nqLuhgsBdF5YwzZ2yGX2bKIUnVMvyLnUiZMN1Sr/siglUqsmXRvtQPD/GAVrgr74DvfWcuXk6TnLl4csHtK61abSGJwsBwlvdovq/Rrrm4wfqXqJ801l3+EGUXJtaOO+ghDw4M5aTo3Qwcsf9gkwj9kZE+eljxTL7irxwxmlWU="
+  - secure: YFFqFrcuQVtT5bVZFpOB8f67BY6sGc8f0gn/1gh1pWnQfNUrjCJpgUXXQmb/wkCwevgy+VLjRrRUm4RCunPr5UhZRczaujED6r1wbHCJAZlouG8fqbsMjOUFjBIYZlA4z/3uyzb2CoeRbxq70g7E9IoM3FCKV6zd834NU06g2cdQZL6LGDJ1g03Dj2BMVfE4hUpgkuW1KQ3oheoXlvb9OPuxEuP4BJVZcJp4BAQ9QfLDXO/bUr65/rcDaQ+bjEUn31hw1Zy69tB52EB21YIJ2wGfxy7Q5b5kErSCG5uY6iLgTpiYp5YQeWXod6BRqsi4dYx48LER7d5ZtEBi7f1EU3Bc0zdgmBbAu2/oAC3dwCAn3QFcQS2BSymGEMAwcaLjcMdfOLKh3nr5p1jZxBW6HEujK11Ow+WFtRz6AfVl6hp2pAdL2zbiwjYwXHmNJLqgRkXsXkCcm2PURadmgqT9gPPoitAVjRCD5VVroOhCfly/+iI9ADdmPEBi1FyfwNzvBFicorgj2RweSOHYwRf5EKGKA1OzuPiuI2+oOC8E2saMFo9i8eyXPXrZRtpMBO04dnvgSELQI6ExAlK9tM6rahhU2Y4AWZHea8iUnB5czt6Ur024fkJlEfRQvW/rNxu8vdENNWSYc+wqWi48IUD1urcjjVCjgd6EbDPatLpPoFg=
 branches:
   only:
-    - master
+  - master
