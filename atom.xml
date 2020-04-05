@@ -42,6 +42,20 @@
     
       
       <item>
+        <title>Laurel's Page</title>
+        
+          <description>&lt;p&gt;This is Laurel's test page&lt;/p&gt;
+</description>
+        
+        <pubDate>Sat, 04 Apr 2020 06:40:00 +0000</pubDate>
+        <link>
+        /laurel</link>
+        <guid isPermaLink="true">/laurel</guid>
+      </item>
+      
+    
+      
+      <item>
         <title>Welcome to Ghost</title>
         
           <description>&lt;p&gt;Hey! Welcome to Ghost, it’s great to have you :)&lt;/p&gt;
