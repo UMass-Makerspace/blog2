@@ -2,10 +2,10 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
-  <link href="/blog2/author/paolo/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="/blog2/tag/test-posts/feed.xml" rel="self" type="application/atom+xml" />
   <link href="/blog2/" rel="alternate" type="text/html" />
   <updated>2020-04-05T15:34:22+00:00</updated>
-  <id>/blog2/author/paolo/feed.xml</id>
+  <id>/blog2/tag/test-posts/feed.xml</id>
 
   
   
@@ -62,12 +62,12 @@
 
   
     <entry>
-      <title type="html">Paolo’s Page</title>
-      <link href="/blog2/paolo" rel="alternate" type="text/html" title="Paolo's Page" />
+      <title type="html">Connor’s Page</title>
+      <link href="/blog2/connor" rel="alternate" type="text/html" title="Connor's Page" />
       <published>2020-04-04T06:40:00+00:00</published>
       <updated>2020-04-04T06:40:00+00:00</updated>
-      <id>/blog2/paolo</id>
-      <content type="html" xml:base="/blog2/paolo">&lt;p&gt;This is Paolo's test page&lt;/p&gt;</content>
+      <id>/blog2/connor</id>
+      <content type="html" xml:base="/blog2/connor">&lt;p&gt;This is Connor's test page&lt;/p&gt;</content>
 
       
       
@@ -76,7 +76,7 @@
       
 
       <author>
-          <name>Paolo Brandon</name>
+          <name>Connor Loughman</name>
         
         
       </author>
@@ -84,11 +84,11 @@
       
 
       
-        <category term="Getting started" />
+        <category term="Test Posts" />
       
 
       
-        <summary type="html">This is Paolo's test page</summary>
+        <summary type="html">This is Connor's test page</summary>
       
 
       
