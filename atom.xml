@@ -70,6 +70,20 @@
     
       
       <item>
+        <title>Philip's Page</title>
+        
+          <description>&lt;p&gt;This is Philip's test page&lt;/p&gt;
+</description>
+        
+        <pubDate>Sat, 04 Apr 2020 06:40:00 +0000</pubDate>
+        <link>
+        /philip</link>
+        <guid isPermaLink="true">/philip</guid>
+      </item>
+      
+    
+      
+      <item>
         <title>Laurel's Page</title>
         
           <description>&lt;p&gt;This is Laurel's test page&lt;/p&gt;
@@ -79,6 +93,20 @@
         <link>
         /laurel</link>
         <guid isPermaLink="true">/laurel</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Julius's Page</title>
+        
+          <description>&lt;p&gt;This is Julius's test page&lt;/p&gt;
+</description>
+        
+        <pubDate>Sat, 04 Apr 2020 06:40:00 +0000</pubDate>
+        <link>
+        /julius</link>
+        <guid isPermaLink="true">/julius</guid>
       </item>
       
     
