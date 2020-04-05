@@ -2,10 +2,10 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
-  <link href="/blog2/author/costanza/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="/blog2/author/phillip/feed.xml" rel="self" type="application/atom+xml" />
   <link href="/blog2/" rel="alternate" type="text/html" />
   <updated>2020-04-05T15:56:23+00:00</updated>
-  <id>/blog2/author/costanza/feed.xml</id>
+  <id>/blog2/author/phillip/feed.xml</id>
 
   
   
@@ -62,12 +62,12 @@
 
   
     <entry>
-      <title type="html">Costanza’s Page</title>
-      <link href="/blog2/costanza" rel="alternate" type="text/html" title="Costanza's Page" />
+      <title type="html">Phillip’s Page</title>
+      <link href="/blog2/philip" rel="alternate" type="text/html" title="Phillip's Page" />
       <published>2020-04-04T06:40:00+00:00</published>
       <updated>2020-04-04T06:40:00+00:00</updated>
-      <id>/blog2/costanza</id>
-      <content type="html" xml:base="/blog2/costanza">&lt;p&gt;This is Costanza's test page&lt;/p&gt;</content>
+      <id>/blog2/philip</id>
+      <content type="html" xml:base="/blog2/philip">&lt;p&gt;This is Philip's test page&lt;/p&gt;</content>
 
       
       
@@ -76,7 +76,7 @@
       
 
       <author>
-          <name>Costanza Fusco</name>
+          <name>Phillip Van</name>
         
         
       </author>
@@ -88,7 +88,7 @@
       
 
       
-        <summary type="html">This is Costanza's test page</summary>
+        <summary type="html">This is Philip's test page</summary>
       
 
       
