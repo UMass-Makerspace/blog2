@@ -126,6 +126,34 @@
     
       
       <item>
+        <title>Jack's Page</title>
+        
+          <description>&lt;p&gt;This is Jack's test page&lt;/p&gt;
+</description>
+        
+        <pubDate>Sat, 04 Apr 2020 06:40:00 +0000</pubDate>
+        <link>
+        /jack</link>
+        <guid isPermaLink="true">/jack</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Connor's Page</title>
+        
+          <description>&lt;p&gt;This is Connor's test page&lt;/p&gt;
+</description>
+        
+        <pubDate>Sat, 04 Apr 2020 06:40:00 +0000</pubDate>
+        <link>
+        /connor</link>
+        <guid isPermaLink="true">/connor</guid>
+      </item>
+      
+    
+      
+      <item>
         <title>Jessica</title>
         
           <description>
