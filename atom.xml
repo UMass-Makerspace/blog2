@@ -168,6 +168,20 @@
     
       
       <item>
+        <title>Jessica's Page</title>
+        
+          <description>&lt;p&gt;This is Jessica's test page&lt;/p&gt;
+</description>
+        
+        <pubDate>Sat, 04 Apr 2020 06:40:00 +0000</pubDate>
+        <link>
+        /jessica</link>
+        <guid isPermaLink="true">/jessica</guid>
+      </item>
+      
+    
+      
+      <item>
         <title>Jeremy's Page</title>
         
           <description>&lt;p&gt;This is Jeremy's test page&lt;/p&gt;
@@ -233,33 +247,6 @@
         <link>
         /connor</link>
         <guid isPermaLink="true">/connor</guid>
-      </item>
-      
-    
-      
-      <item>
-        <title>Jessica</title>
-        
-          <description>
----
-layout: post
-current: post
-cover:  assets/images/jack-profile.jpg
-navigation: True
-title: Jessica's Page
-date: 2020-04-04 06:40:00
-tags: [Getting started]
-class: post-template
-subclass: 'post tag-getting-started'
-author: jessica
----
-
-</description>
-        
-        <pubDate>Sat, 04 Apr 2020 00:00:00 +0000</pubDate>
-        <link>
-        /jessica</link>
-        <guid isPermaLink="true">/jessica</guid>
       </item>
       
     
