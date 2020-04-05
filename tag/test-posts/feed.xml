@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="/blog2/tag/test-posts/feed.xml" rel="self" type="application/atom+xml" />
   <link href="/blog2/" rel="alternate" type="text/html" />
-  <updated>2020-04-05T15:56:23+00:00</updated>
+  <updated>2020-04-05T15:59:38+00:00</updated>
   <id>/blog2/tag/test-posts/feed.xml</id>
 
   
@@ -165,11 +165,11 @@
   
     <entry>
       <title type="html">Phillip’s Page</title>
-      <link href="/blog2/philip" rel="alternate" type="text/html" title="Phillip's Page" />
+      <link href="/blog2/phillip" rel="alternate" type="text/html" title="Phillip's Page" />
       <published>2020-04-04T06:40:00+00:00</published>
       <updated>2020-04-04T06:40:00+00:00</updated>
-      <id>/blog2/philip</id>
-      <content type="html" xml:base="/blog2/philip">&lt;p&gt;This is Philip's test page&lt;/p&gt;</content>
+      <id>/blog2/phillip</id>
+      <content type="html" xml:base="/blog2/phillip">&lt;p&gt;This is Phillip's test page&lt;/p&gt;</content>
 
       
       
@@ -190,7 +190,7 @@
       
 
       
-        <summary type="html">This is Philip's test page</summary>
+        <summary type="html">This is Phillip's test page</summary>
       
 
       
