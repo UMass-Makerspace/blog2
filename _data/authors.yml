@@ -14,6 +14,17 @@ jack:
   url_full: https://umass-makerspace.github.io/blog2
   url: umass-makerspace.github.io/blog2
   bio: Jack's test bio
+  pronouns: His/He
+  picture: assets/images/jack-profile.jpg
+  facebook: False
+  twitter: False
+  cover: False
+kay:
+  username: kay
+  name: Kay Bros
+  url_full: https://umass-makerspace.github.io/blog2
+  url: umass-makerspace.github.io/blog2
+  bio: Jack's test bio
   picture: assets/images/jack-profile.jpg
   facebook: False
   twitter: False
