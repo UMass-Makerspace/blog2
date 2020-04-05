@@ -14,3 +14,7 @@ getting-started:
   name: getting-started
   description: False
   cover: False
+test-posts:
+  name: test-posts
+  description: A test tag description
+  cover: assets/images/makerspace-logo.png
