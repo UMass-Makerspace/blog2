@@ -24,7 +24,7 @@ kay:
   url_full: https://umass-makerspace.github.io/blog2
   url: umass-makerspace.github.io/blog2
   bio: (she/her/hers) Fabric, yarn, thread, LEDs, soft circuits, Arduino/Pi/Lilypad, accessibility, documentation, telescopes/optics
-  picture: assets/images/jack-profile.jpg
+  picture: assets/images/profile-pics/kay.jpg
   facebook: False
   twitter: False
   cover: False
@@ -34,17 +34,17 @@ julius:
   url_full: https://umass-makerspace.github.io/blog2
   url: umass-makerspace.github.io/blog2
   bio: (he/him/his)  All things automotive, general repairs & maintenance, hand/power/shop tools, machining, soldering
-  picture: assets/images/jack-profile.jpg
+  picture: assets/images/profile-pics/julius.png
   facebook: False
   twitter: False
   cover: False
 philip:
-  username: philip
-  name: Philip Van
+  username: phillip
+  name: Phillip Van
   url_full: https://umass-makerspace.github.io/blog2
   url: umass-makerspace.github.io/blog2
   bio: (he/him/his)  3D design & printing, programming, woodworking, mechanical tools, machining
-  picture: assets/images/jack-profile.jpg
+  picture: assets/images/phil/phil.png
   facebook: False
   twitter: False
   cover: False
@@ -54,7 +54,7 @@ tyler:
   url_full: https://umass-makerspace.github.io/blog2
   url: umass-makerspace.github.io/blog2
   bio: (he/him/his)  Woodworking, construction, drones, mapping, econ/trading
-  picture: assets/images/jack-profile.jpg
+  picture: assets/images/profile-pics/tyler.png
   facebook: False
   twitter: False
   cover: False
@@ -64,7 +64,7 @@ jeremy:
   url_full: https://www.jeremyparadie.com/
   url: jeremyparadie.com
   bio: (he/him/his)  Batteries, motors, microcontrollers, enclosures, wiring, piezos, servos, power supplies, general electronics, high voltage, tools and machines, design, rapid prototyping, surface mount soldering, reverse engineering, Processing, Arduino, mBed, 3d printing, robotics, Solidworks, Onshape, Altium, Tinkercad
-  picture: assets/images/jack-profile.jpg
+  picture: assets/images/profile-pics/jeremy.jpg
   facebook: False
   twitter: False
   cover: False
@@ -74,7 +74,7 @@ connor:
   url_full: https://umass-makerspace.github.io/blog2
   url: umass-makerspace.github.io/blog2
   bio: (he/him/his)  Soldering, math, coding, computer hardware/troubleshooting, woodworking, laser cutting
-  picture: assets/images/jack-profile.jpg
+  picture: assets/images/profile-pics/connor.jpg
   facebook: False
   twitter: False
   cover: False
@@ -84,7 +84,7 @@ thomas:
   url_full: https://umass-makerspace.github.io/blog2
   url: umass-makerspace.github.io/blog2
   bio: (he/him/his)  Environmental studies, Geographic Information Systems (GIS), marketing
-  picture: assets/images/jack-profile.jpg
+  picture: assets/images/profile-pics/thomas.png
   facebook: False
   twitter: False
   cover: False
@@ -94,7 +94,7 @@ navya:
   url_full: https://umass-makerspace.github.io/blog2
   url: umass-makerspace.github.io/blog2
   bio: (she/her/hers)  Graphic design, marketing, woodworking, programming, mechanical tools, painting, soldering, sewing
-  picture: assets/images/jack-profile.jpg
+  picture: assets/images/profile-pics/navya.jpg
   facebook: False
   twitter: False
   cover: False
@@ -104,7 +104,7 @@ paolo:
   url_full: https://umass-makerspace.github.io/blog2
   url: umass-makerspace.github.io/blog2
   bio: (he/him/his)  Machining, blacksmithing, woodworking, CAD, 3D printing, Illustrator, Photoshop, prototyping, LEGOs, poetry
-  picture: assets/images/jack-profile.jpg
+  picture: assets/images/profile-pics/paolo.jpg
   facebook: False
   twitter: False
   cover: False
@@ -114,7 +114,7 @@ jessica:
   url_full: https://umass-makerspace.github.io/blog2
   url: umass-makerspace.github.io/blog2
   bio: (she/her/hers)  Puppet building, puppet mechs, adhesives, basic woodworking, basic casting & molding, basic sewing, soft-sculpture, mask-making, flat-patterning with foam, sculpting, jello and sugar glass
-  picture: assets/images/jack-profile.jpg
+  picture: assets/images/profile-pics/jess.jpg
   facebook: False
   twitter: False
   cover: False
@@ -124,7 +124,7 @@ david:
   url_full: https://umass-makerspace.github.io/blog2
   url: umass-makerspace.github.io/blog2
   bio: (he/him/his)  Recreational costume design, popsicle sticks, foam crafting, Pepakura
-  picture: assets/images/jack-profile.jpg
+  picture: assets/images/profile-pics/david.jpg
   facebook: False
   twitter: False
   cover: False
@@ -134,7 +134,7 @@ margaret:
   url_full: https://umass-makerspace.github.io/blog2
   url: umass-makerspace.github.io/blog2
   bio: (she/her/hers)  Woodworking, basketry, leatherworking, welding, bike repair, Python, Excel, Matlab, Final Cut Pro, circuit debugging, servos/motors, soldering
-  picture: assets/images/jack-profile.jpg
+  picture: assets/images/profile-pics/margaret.jpg
   facebook: False
   twitter: False
   cover: False
@@ -144,7 +144,7 @@ costanza:
   url_full: https://umass-makerspace.github.io/blog2
   url: umass-makerspace.github.io/blog2
   bio: (she/her/hers)  Woodworking, sewing and fiber art, leatherworking, resin casting and mold making, soldering, pattern drafting, painting, basic 3D modeling, LEDs and piezoelectronics, microscopy
-  picture: assets/images/jack-profile.jpg
+  picture: assets/images/profile-pics/costanza.png
   facebook: False
   twitter: False
   cover: False
@@ -154,7 +154,7 @@ laurel:
   url_full: https://umass-makerspace.github.io/blog2
   url: umass-makerspace.github.io/blog2
   bio: (she/her/hers)  Programming, Arduino, basic circuitry, sewing, foamwork, soldering
-  picture: assets/images/jack-profile.jpg
+  picture: assets/images/profile-pics/laurel.jpg
   facebook: False
   twitter: False
   cover: False
