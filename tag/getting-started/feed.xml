@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="/blog2/tag/getting-started/feed.xml" rel="self" type="application/atom+xml" />
   <link href="/blog2/" rel="alternate" type="text/html" />
-  <updated>2020-04-05T03:12:42+00:00</updated>
+  <updated>2020-04-05T03:13:52+00:00</updated>
   <id>/blog2/tag/getting-started/feed.xml</id>
 
   
@@ -320,6 +320,40 @@
     </entry>
   
     <entry>
+      <title type="html">Margaret’s Page</title>
+      <link href="/blog2/margaret" rel="alternate" type="text/html" title="Margaret's Page" />
+      <published>2020-04-04T06:40:00+00:00</published>
+      <updated>2020-04-04T06:40:00+00:00</updated>
+      <id>/blog2/margaret</id>
+      <content type="html" xml:base="/blog2/margaret">&lt;p&gt;This is Margaret's test page&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Margaret Polsgrove</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="Getting started" />
+      
+
+      
+        <summary type="html">This is Margaret's test page</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
       <title type="html">Laurel’s Page</title>
       <link href="/blog2/laurel" rel="alternate" type="text/html" title="Laurel's Page" />
       <published>2020-04-04T06:40:00+00:00</published>
@@ -381,40 +415,6 @@
 
       
         <summary type="html">This is Julius's test page</summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">Jeremy’s Page</title>
-      <link href="/blog2/jeremy" rel="alternate" type="text/html" title="Jeremy's Page" />
-      <published>2020-04-04T06:40:00+00:00</published>
-      <updated>2020-04-04T06:40:00+00:00</updated>
-      <id>/blog2/jeremy</id>
-      <content type="html" xml:base="/blog2/jeremy">&lt;p&gt;This is Jeremy's test page&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name>Jeremy Paradie</name>
-        
-        
-      </author>
-
-      
-
-      
-        <category term="Getting started" />
-      
-
-      
-        <summary type="html">This is Jeremy's test page</summary>
       
 
       
