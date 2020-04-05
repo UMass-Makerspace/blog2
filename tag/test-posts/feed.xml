@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="/blog2/tag/test-posts/feed.xml" rel="self" type="application/atom+xml" />
   <link href="/blog2/" rel="alternate" type="text/html" />
-  <updated>2020-04-05T15:48:15+00:00</updated>
+  <updated>2020-04-05T15:52:01+00:00</updated>
   <id>/blog2/tag/test-posts/feed.xml</id>
 
   
@@ -164,8 +164,8 @@
     </entry>
   
     <entry>
-      <title type="html">Philip’s Page</title>
-      <link href="/blog2/philip" rel="alternate" type="text/html" title="Philip's Page" />
+      <title type="html">Phillip’s Page</title>
+      <link href="/blog2/philip" rel="alternate" type="text/html" title="Phillip's Page" />
       <published>2020-04-04T06:40:00+00:00</published>
       <updated>2020-04-04T06:40:00+00:00</updated>
       <id>/blog2/philip</id>
@@ -178,7 +178,7 @@
       
 
       <author>
-          <name>Phillip Van</name>
+          <name>phillip</name>
         
         
       </author>
