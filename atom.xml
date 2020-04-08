@@ -11,8 +11,8 @@
         <title>Meet our staff!</title>
         
           <description>&lt;p&gt;Meet our staff! Here you can find a picture and a quick description of everyone in the makerspace staff, along with an email for each if you have any questions.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/assets/images/kay.jpg&quot; alt=&quot;Kay&quot;&gt;&lt;/p&gt;
 &lt;h2&gt;Kay Bros&lt;/h2&gt;
+![kay](/assets/images/kay.jpg)
 &lt;p&gt;(she/her/hers)&lt;/p&gt;
 &lt;p&gt;kbros@umass.edu&lt;/p&gt;
 &lt;p&gt;Ask me about: Fabric, yarn, thread, LEDs, soft circuits, Arduino/Pi/Lilypad, accessibility, documentation, telescopes/optics&lt;/p&gt;
