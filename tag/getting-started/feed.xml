@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="/blog2/tag/getting-started/feed.xml" rel="self" type="application/atom+xml" />
   <link href="/blog2/" rel="alternate" type="text/html" />
-  <updated>2020-04-08T21:32:33+00:00</updated>
+  <updated>2020-04-08T21:41:37+00:00</updated>
   <id>/blog2/tag/getting-started/feed.xml</id>
 
   
@@ -67,7 +67,12 @@
       <published>2020-04-08T05:05:00+00:00</published>
       <updated>2020-04-08T05:05:00+00:00</updated>
       <id>/blog2/staff-board</id>
-      <content type="html" xml:base="/blog2/staff-board">&lt;p&gt;Meet our staff! Here you can find a picture and a quick description of everyone in the makerspace staff, along with an email for each if you have any questions.&lt;/p&gt;</content>
+      <content type="html" xml:base="/blog2/staff-board">&lt;p&gt;Meet our staff! Here you can find a picture and a quick description of everyone in the makerspace staff, along with an email for each if you have any questions.&lt;/p&gt;
+&lt;h2 id=&quot;kay&quot;&gt;Kay Bros&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;https://github.com/UMass-Makerspace/blog2/blob/master/assets/images/kay.jpg&quot; alt=&quot;Kay&quot;&gt;&lt;/p&gt;
+&lt;p&gt;(she/her/hers)&lt;/p&gt;
+&lt;p&gt;kbros@umass.edu&lt;/p&gt;
+&lt;p&gt;Ask me about: Fabric, yarn, thread, LEDs, soft circuits, Arduino/Pi/Lilypad, accessibility, documentation, telescopes/optics&lt;/p&gt;</content>
 
       
       
@@ -88,7 +93,7 @@
       
 
       
-        <summary type="html">Meet our staff! Here you can find a picture and a quick description of everyone in the makerspace staff, along with an email for each if you have any questions.</summary>
+        <summary type="html">Meet our staff! Here you can find a picture and a quick description of everyone in the makerspace staff, along with an email for each if you have any questions. Kay Bros (she/her/hers) kbros@umass.edu Ask me about: Fabric, yarn, thread, LEDs, soft circuits, Arduino/Pi/Lilypad, accessibility, documentation, telescopes/optics</summary>
       
 
       
