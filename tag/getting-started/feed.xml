@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="/blog2/tag/getting-started/feed.xml" rel="self" type="application/atom+xml" />
   <link href="/blog2/" rel="alternate" type="text/html" />
-  <updated>2020-04-08T23:00:38+00:00</updated>
+  <updated>2020-04-09T00:13:06+00:00</updated>
   <id>/blog2/tag/getting-started/feed.xml</id>
 
   
@@ -69,91 +69,91 @@
       <id>/blog2/staff-board</id>
       <content type="html" xml:base="/blog2/staff-board">&lt;p&gt;Meet our staff! Here you can find a picture and a quick description of everyone in the makerspace staff, along with an email for each if you have any questions.&lt;/p&gt;
 &lt;h2&gt;Kay Bros&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;/assets/images/kay.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/UMass-Makerspace/blog2/master/assets/images/profile-pics/kay.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;(she/her/hers)&lt;/p&gt;
 &lt;p&gt;kbros@umass.edu&lt;/p&gt;
 &lt;p&gt;Ask me about: Fabric, yarn, thread, LEDs, soft circuits, Arduino/Pi/Lilypad, accessibility, documentation, telescopes/optics&lt;/p&gt;
 
 &lt;h2&gt;Julius Rosenthal&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;/assets/images/Julius.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/UMass-Makerspace/blog2/master/assets/images/profile-pics/Julius.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;(he/him/his)&lt;/p&gt;
 &lt;p&gt;juliusrosent@umass.edu&lt;/p&gt;
 &lt;p&gt;Ask me about: All things automotive, general repairs &amp; maintenance, hand/power/shop tools, machining, soldering&lt;/p&gt;
 
 &lt;h2&gt;Philip Van&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;/assets/images/Philip.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/UMass-Makerspace/blog2/master/assets/images/profile-pics/Philip.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;(he/him/his)&lt;/p&gt;
 &lt;p&gt;pvan@umass.edu&lt;/p&gt;
 &lt;p&gt;Ask me about: 3D design &amp; printing, programming, woodworking, mechanical tools, machining&lt;/p&gt;
 
 &lt;h2&gt;Tyler Kerwin&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;/assets/images/tyler.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/UMass-Makerspace/blog2/master/assets/images/profile-pics/tyler.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;(he/him/his)&lt;/p&gt;
 &lt;p&gt;tkerwin@umass.edu&lt;/p&gt;
 &lt;p&gt;Ask me about: Woodworking, construction, drones, mapping, econ/trading&lt;/p&gt;
 
 &lt;h2&gt;Jeremy Paradie&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;/assets/images/Jeremy.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/UMass-Makerspace/blog2/master/assets/images/profile-pics/Jeremy.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;(he/him/his)&lt;/p&gt;
 &lt;p&gt;jparadie@umass.edu https://www.jeremyparadie.com/&lt;/p&gt;
 &lt;p&gt;Ask me about: Batteries, motors, microcontrollers, enclosures, wiring, piezos, servos, power supplies, general electronics, high voltage, tools and machines, design, rapid prototyping, surface mount soldering, reverse engineering, Processing, Arduino, mBed, 3d printing, robotics, Solidworks, Onshape, Altium, Tinkercad&lt;/p&gt;
 
 &lt;h2&gt;Connor Loughman&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;/assets/images/connor.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/UMass-Makerspace/blog2/master/assets/images/profile-pics/connor.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;(he/him/his)&lt;/p&gt;
 &lt;p&gt;cloughman@umass.edu&lt;/p&gt;
 &lt;p&gt;Ask me about: Soldering, math, coding, computer hardware/troubleshooting, woodworking, laser cutting&lt;/p&gt;
 
 &lt;h2&gt;Jack Champagne&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;/assets/images/jack-profile.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/UMass-Makerspace/blog2/master/assets/images/profile-pics/jack.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;(he/him/his)&lt;/p&gt;
 &lt;p&gt;jrchampagne@umass.edu  www.jackchampage.com&lt;/p&gt;
 &lt;p&gt;Ask me about: Programming (C++, Java, Python), CNC machining, electrical schematics, circuit design, component identification &amp; description&lt;/p&gt;
 
 &lt;h2&gt;Thomas O’Connor&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;/assets/images/Thomas.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/UMass-Makerspace/blog2/master/assets/images/profile-pics/Thomas.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;(he/him/his)&lt;/p&gt;
 &lt;p&gt;thooconnor@umass.edu&lt;/p&gt;
 &lt;p&gt;Ask me about: Environmental studies, Geographic Information Systems (GIS), marketing&lt;/p&gt;
 
 &lt;h2&gt;Navya Ravavarapu&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;/assets/images/navya.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/UMass-Makerspace/blog2/master/assets/images/profile-pics/navya.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;(she/her/hers)&lt;/p&gt;
 &lt;p&gt;nravavarapu@umass.edu&lt;/p&gt;
 &lt;p&gt;Ask me about: Graphic design, marketing&lt;/p&gt;
 
 &lt;h2&gt;Paolo Brandon&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;/assets/images/paolo.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/UMass-Makerspace/blog2/master/assets/images/profile-pics/paolo.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;(he/him/his)&lt;/p&gt;
 &lt;p&gt;pbrandon@umass.edu&lt;/p&gt;
 &lt;p&gt;Ask me about: Machining, blacksmithing, woodworking, CAD, 3D printing, Illustrator, Photoshop, prototyping, LEGOs, poetry&lt;/p&gt;
 
 &lt;h2&gt;Jessica Scott&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;/assets/images/jessie.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/UMass-Makerspace/blog2/master/assets/images/profile-pics/jessie.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;(she/her/hers)&lt;/p&gt;
 &lt;p&gt;jessicascott@umass.edu&lt;/p&gt;
 &lt;p&gt;Ask me about: Puppet building, puppet mechs, adhesives, basic woodworking, basic casting &amp; molding, basic sewing, soft-sculpture, mask-making, flat-patterning with foam, sculpting, jello and sugar glass&lt;/p&gt;
 
 &lt;h2&gt;David Schottler&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;/assets/images/david.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/UMass-Makerspace/blog2/master/assets/images/profile-pics/david.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;(he/him/his)&lt;/p&gt;
 &lt;p&gt;dschottler@umass.edu&lt;/p&gt;
 &lt;p&gt;Ask me about: Recreational costume design, popsicle sticks, foam crafting, Pepakura&lt;/p&gt;
 
 &lt;h2&gt;Margaret Polsgrove&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;/assets/images/margaret.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/UMass-Makerspace/blog2/master/assets/images/profile-pics/margaret.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;(she/her/hers)&lt;/p&gt;
 &lt;p&gt;mpolsgrove@umass.edu&lt;/p&gt;
 &lt;p&gt;Ask me about: Woodworking, basketry, leatherworking, welding, bike repair, Python, Excel, Matlab, Final Cut Pro, circuit debugging, servos/motors, soldering&lt;/p&gt;
 
 &lt;h2&gt;Costanza Fusco&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;/assets/images/costanza.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/UMass-Makerspace/blog2/master/assets/images/profile-pics/costanza.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;(she/her/hers)&lt;/p&gt;
 &lt;p&gt;costanzafusc@umass.edu&lt;/p&gt;
 &lt;p&gt;Ask me about: Woodworking, sewing and fiber art, leatherworking, resin casting and mold making, soldering, pattern drafting, painting, basic 3D modeling, LEDs and piezoelectronics, microscopy&lt;/p&gt;
 
 &lt;h2&gt;Laurel Parsons&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;/assets/images/Laurel.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/UMass-Makerspace/blog2/master/assets/images/profile-pics/Laurel.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;(she/her/hers)&lt;/p&gt;
 &lt;p&gt;laparsons@umass.edu&lt;/p&gt;
 &lt;p&gt;Ask me about: Programming, Android Studio, Arduino, basic circuitry, sewing, foamwork, soldering&lt;/p&gt;</content>
