@@ -1,7 +1,3 @@
-getting-started:
-  name: getting-started
-  description: False
-  cover: False
 about-us:
   name: about-us
   description: A collection of posts describing who we are and what we do.
