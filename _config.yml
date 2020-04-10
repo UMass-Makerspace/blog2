@@ -11,7 +11,7 @@ baseurl: /blog/
 # Website info
 title: UMass Amherst Makerspace
 description: Blog for makers.
-cover: assets/images/blog-cover.jpg
+cover: assets/images/umass-skyline.JPG
 logo: assets/images/makerspace-logo.png
 logo_dark: assets/images/makerspace-logo.png
 favicon: assets/images/favicon-invert.ico
@@ -73,8 +73,6 @@ username: umass-makerspace
 repo: blog
 branch: master
 relative_source: ../blog/
-destination: ../blog-pages/
-production_url:  https://umass-makerspace.github.io/blog/
 source_url:  https://github.com/umass-makerspace/blog/
 
 exclude:
