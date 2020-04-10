@@ -74,6 +74,8 @@ repo: blog
 branch: master
 relative_source: ../blog/
 source_url:  https://github.com/umass-makerspace/blog/
+destination: ../blog-pages/
+production_url:  https://umass-makerspace.github.io/blog/
 
 exclude:
   - assets/css
