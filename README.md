@@ -2,7 +2,7 @@
 
 This is the UMass Amherst Makerspace blog (formerly UMass Amherst All-Campus Makerspace) and is built on top of jekyll, github pages, and uses travis-ci.
 
-This repository is currently maintained by @jack-champagne, @LaurelParsons, and @navyaravavarapu.
+This repository is currently maintained by [@jack-champagne](https://github.com/jack-champagne), [@LaurelParsons](https://github.com/laurelparsons), and [@navyaravavarapu](https://github.com/navyaravavarapu).
 
 This blog was started as the makerspace moved online during the COVID-19 pandemic.
 
