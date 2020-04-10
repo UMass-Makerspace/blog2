@@ -2,10 +2,10 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
-  <link href="/blog2/tag/test-posts/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="/blog2/" rel="alternate" type="text/html" />
-  <updated>2020-04-09T00:27:03+00:00</updated>
-  <id>/blog2/tag/test-posts/feed.xml</id>
+  <link href="/blog/tag/test-posts/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="/blog/" rel="alternate" type="text/html" />
+  <updated>2020-04-10T03:14:43+00:00</updated>
+  <id>/blog/tag/test-posts/feed.xml</id>
 
   
   
@@ -63,11 +63,11 @@
   
     <entry>
       <title type="html">Tyler’s Page</title>
-      <link href="/blog2/tyler" rel="alternate" type="text/html" title="Tyler's Page" />
+      <link href="/blog/tyler" rel="alternate" type="text/html" title="Tyler's Page" />
       <published>2020-04-04T06:40:00+00:00</published>
       <updated>2020-04-04T06:40:00+00:00</updated>
-      <id>/blog2/tyler</id>
-      <content type="html" xml:base="/blog2/tyler">&lt;p&gt;This is Tyler's test page&lt;/p&gt;</content>
+      <id>/blog/tyler</id>
+      <content type="html" xml:base="/blog/tyler">&lt;p&gt;This is Tyler's test page&lt;/p&gt;</content>
 
       
       
@@ -97,11 +97,11 @@
   
     <entry>
       <title type="html">Thomas’s Page</title>
-      <link href="/blog2/thomas" rel="alternate" type="text/html" title="Thomas's Page" />
+      <link href="/blog/thomas" rel="alternate" type="text/html" title="Thomas's Page" />
       <published>2020-04-04T06:40:00+00:00</published>
       <updated>2020-04-04T06:40:00+00:00</updated>
-      <id>/blog2/thomas</id>
-      <content type="html" xml:base="/blog2/thomas">&lt;p&gt;This is Thomas's test page&lt;/p&gt;</content>
+      <id>/blog/thomas</id>
+      <content type="html" xml:base="/blog/thomas">&lt;p&gt;This is Thomas's test page&lt;/p&gt;</content>
 
       
       
@@ -131,11 +131,11 @@
   
     <entry>
       <title type="html">Theresa’s Page</title>
-      <link href="/blog2/theresa" rel="alternate" type="text/html" title="Theresa's Page" />
+      <link href="/blog/theresa" rel="alternate" type="text/html" title="Theresa's Page" />
       <published>2020-04-04T06:40:00+00:00</published>
       <updated>2020-04-04T06:40:00+00:00</updated>
-      <id>/blog2/theresa</id>
-      <content type="html" xml:base="/blog2/theresa">&lt;p&gt;This is Theresa's test page&lt;/p&gt;</content>
+      <id>/blog/theresa</id>
+      <content type="html" xml:base="/blog/theresa">&lt;p&gt;This is Theresa's test page&lt;/p&gt;</content>
 
       
       
@@ -165,11 +165,11 @@
   
     <entry>
       <title type="html">Phillip’s Page</title>
-      <link href="/blog2/phillip" rel="alternate" type="text/html" title="Phillip's Page" />
+      <link href="/blog/phillip" rel="alternate" type="text/html" title="Phillip's Page" />
       <published>2020-04-04T06:40:00+00:00</published>
       <updated>2020-04-04T06:40:00+00:00</updated>
-      <id>/blog2/phillip</id>
-      <content type="html" xml:base="/blog2/phillip">&lt;p&gt;This is Phillip's test page&lt;/p&gt;</content>
+      <id>/blog/phillip</id>
+      <content type="html" xml:base="/blog/phillip">&lt;p&gt;This is Phillip's test page&lt;/p&gt;</content>
 
       
       
@@ -199,11 +199,11 @@
   
     <entry>
       <title type="html">Paolo’s Page</title>
-      <link href="/blog2/paolo" rel="alternate" type="text/html" title="Paolo's Page" />
+      <link href="/blog/paolo" rel="alternate" type="text/html" title="Paolo's Page" />
       <published>2020-04-04T06:40:00+00:00</published>
       <updated>2020-04-04T06:40:00+00:00</updated>
-      <id>/blog2/paolo</id>
-      <content type="html" xml:base="/blog2/paolo">&lt;p&gt;This is Paolo's test page&lt;/p&gt;</content>
+      <id>/blog/paolo</id>
+      <content type="html" xml:base="/blog/paolo">&lt;p&gt;This is Paolo's test page&lt;/p&gt;</content>
 
       
       
@@ -233,11 +233,11 @@
   
     <entry>
       <title type="html">Navya’s Page</title>
-      <link href="/blog2/navya" rel="alternate" type="text/html" title="Navya's Page" />
+      <link href="/blog/navya" rel="alternate" type="text/html" title="Navya's Page" />
       <published>2020-04-04T06:40:00+00:00</published>
       <updated>2020-04-04T06:40:00+00:00</updated>
-      <id>/blog2/navya</id>
-      <content type="html" xml:base="/blog2/navya">&lt;p&gt;This is Navya's test page&lt;/p&gt;</content>
+      <id>/blog/navya</id>
+      <content type="html" xml:base="/blog/navya">&lt;p&gt;This is Navya's test page&lt;/p&gt;</content>
 
       
       
@@ -267,11 +267,11 @@
   
     <entry>
       <title type="html">Margaret’s Page</title>
-      <link href="/blog2/margaret" rel="alternate" type="text/html" title="Margaret's Page" />
+      <link href="/blog/margaret" rel="alternate" type="text/html" title="Margaret's Page" />
       <published>2020-04-04T06:40:00+00:00</published>
       <updated>2020-04-04T06:40:00+00:00</updated>
-      <id>/blog2/margaret</id>
-      <content type="html" xml:base="/blog2/margaret">&lt;p&gt;This is Margaret's test page&lt;/p&gt;</content>
+      <id>/blog/margaret</id>
+      <content type="html" xml:base="/blog/margaret">&lt;p&gt;This is Margaret's test page&lt;/p&gt;</content>
 
       
       
@@ -301,11 +301,11 @@
   
     <entry>
       <title type="html">Laurel’s Page</title>
-      <link href="/blog2/laurel" rel="alternate" type="text/html" title="Laurel's Page" />
+      <link href="/blog/laurel" rel="alternate" type="text/html" title="Laurel's Page" />
       <published>2020-04-04T06:40:00+00:00</published>
       <updated>2020-04-04T06:40:00+00:00</updated>
-      <id>/blog2/laurel</id>
-      <content type="html" xml:base="/blog2/laurel">&lt;p&gt;This is Laurel's test page&lt;/p&gt;</content>
+      <id>/blog/laurel</id>
+      <content type="html" xml:base="/blog/laurel">&lt;p&gt;This is Laurel's test page&lt;/p&gt;</content>
 
       
       
@@ -335,11 +335,11 @@
   
     <entry>
       <title type="html">Julius’s Page</title>
-      <link href="/blog2/julius" rel="alternate" type="text/html" title="Julius's Page" />
+      <link href="/blog/julius" rel="alternate" type="text/html" title="Julius's Page" />
       <published>2020-04-04T06:40:00+00:00</published>
       <updated>2020-04-04T06:40:00+00:00</updated>
-      <id>/blog2/julius</id>
-      <content type="html" xml:base="/blog2/julius">&lt;p&gt;This is Julius's test page&lt;/p&gt;</content>
+      <id>/blog/julius</id>
+      <content type="html" xml:base="/blog/julius">&lt;p&gt;This is Julius's test page&lt;/p&gt;</content>
 
       
       
@@ -369,11 +369,11 @@
   
     <entry>
       <title type="html">Jessica’s Page</title>
-      <link href="/blog2/jessica" rel="alternate" type="text/html" title="Jessica's Page" />
+      <link href="/blog/jessica" rel="alternate" type="text/html" title="Jessica's Page" />
       <published>2020-04-04T06:40:00+00:00</published>
       <updated>2020-04-04T06:40:00+00:00</updated>
-      <id>/blog2/jessica</id>
-      <content type="html" xml:base="/blog2/jessica">&lt;p&gt;This is Jessica's test page&lt;/p&gt;</content>
+      <id>/blog/jessica</id>
+      <content type="html" xml:base="/blog/jessica">&lt;p&gt;This is Jessica's test page&lt;/p&gt;</content>
 
       
       

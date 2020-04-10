@@ -2,10 +2,10 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
-  <link href="/blog2/author/jeremy/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="/blog2/" rel="alternate" type="text/html" />
-  <updated>2020-04-09T00:27:03+00:00</updated>
-  <id>/blog2/author/jeremy/feed.xml</id>
+  <link href="/blog/author/jeremy/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="/blog/" rel="alternate" type="text/html" />
+  <updated>2020-04-10T03:14:43+00:00</updated>
+  <id>/blog/author/jeremy/feed.xml</id>
 
   
   
@@ -63,11 +63,11 @@
   
     <entry>
       <title type="html">Jeremy’s Page</title>
-      <link href="/blog2/jeremy" rel="alternate" type="text/html" title="Jeremy's Page" />
+      <link href="/blog/jeremy" rel="alternate" type="text/html" title="Jeremy's Page" />
       <published>2020-04-04T06:40:00+00:00</published>
       <updated>2020-04-04T06:40:00+00:00</updated>
-      <id>/blog2/jeremy</id>
-      <content type="html" xml:base="/blog2/jeremy">&lt;p&gt;This is Jeremy's test page&lt;/p&gt;</content>
+      <id>/blog/jeremy</id>
+      <content type="html" xml:base="/blog/jeremy">&lt;p&gt;This is Jeremy's test page&lt;/p&gt;</content>
 
       
       

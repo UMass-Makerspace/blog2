@@ -2,10 +2,10 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
-  <link href="/blog2/author/navya/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="/blog2/" rel="alternate" type="text/html" />
-  <updated>2020-04-09T00:27:03+00:00</updated>
-  <id>/blog2/author/navya/feed.xml</id>
+  <link href="/blog/author/navya/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="/blog/" rel="alternate" type="text/html" />
+  <updated>2020-04-10T03:14:43+00:00</updated>
+  <id>/blog/author/navya/feed.xml</id>
 
   
   
@@ -63,11 +63,11 @@
   
     <entry>
       <title type="html">Navya’s Page</title>
-      <link href="/blog2/navya" rel="alternate" type="text/html" title="Navya's Page" />
+      <link href="/blog/navya" rel="alternate" type="text/html" title="Navya's Page" />
       <published>2020-04-04T06:40:00+00:00</published>
       <updated>2020-04-04T06:40:00+00:00</updated>
-      <id>/blog2/navya</id>
-      <content type="html" xml:base="/blog2/navya">&lt;p&gt;This is Navya's test page&lt;/p&gt;</content>
+      <id>/blog/navya</id>
+      <content type="html" xml:base="/blog/navya">&lt;p&gt;This is Navya's test page&lt;/p&gt;</content>
 
       
       
@@ -97,11 +97,11 @@
   
     <entry>
       <title type="html">Introduction of Staff</title>
-      <link href="/blog2/staff-intro" rel="alternate" type="text/html" title="Introduction of Staff" />
+      <link href="/blog/staff-intro" rel="alternate" type="text/html" title="Introduction of Staff" />
       <published>2020-04-04T06:40:00+00:00</published>
       <updated>2020-04-04T06:40:00+00:00</updated>
-      <id>/blog2/staff-intro</id>
-      <content type="html" xml:base="/blog2/staff-intro">&lt;p&gt;Welcome to the staff of the UMass Amherst Makerspace&lt;/p&gt;
+      <id>/blog/staff-intro</id>
+      <content type="html" xml:base="/blog/staff-intro">&lt;p&gt;Welcome to the staff of the UMass Amherst Makerspace&lt;/p&gt;
 &lt;p&gt;The UMass Amherst Makerspace is an interdisciplinary makerspace open to students, staff, and faculty from all majors and disciplines.&lt;/p&gt;
 &lt;p&gt;We provide access to space, tools, equipment, training, and help connect individuals and facilitate mentorship and sharing of knowledge.&lt;/p&gt;
 &lt;p&gt;A major focus of the makerspace is re-use, repair, and re-purposing. We want to reduce waste and costs by serving as a hub for the community to share used tools, equipment, materials, furniture, and more. Much of what we have has been donated or saved from the campus waste stream.&lt;/p&gt;

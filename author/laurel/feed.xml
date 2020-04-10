@@ -2,10 +2,10 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
-  <link href="/blog2/author/laurel/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="/blog2/" rel="alternate" type="text/html" />
-  <updated>2020-04-09T00:27:03+00:00</updated>
-  <id>/blog2/author/laurel/feed.xml</id>
+  <link href="/blog/author/laurel/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="/blog/" rel="alternate" type="text/html" />
+  <updated>2020-04-10T03:14:43+00:00</updated>
+  <id>/blog/author/laurel/feed.xml</id>
 
   
   
@@ -63,11 +63,11 @@
   
     <entry>
       <title type="html">Meet our staff!</title>
-      <link href="/blog2/staff-board" rel="alternate" type="text/html" title="Meet our staff!" />
+      <link href="/blog/staff-board" rel="alternate" type="text/html" title="Meet our staff!" />
       <published>2020-04-08T05:05:00+00:00</published>
       <updated>2020-04-08T05:05:00+00:00</updated>
-      <id>/blog2/staff-board</id>
-      <content type="html" xml:base="/blog2/staff-board">&lt;p&gt;Meet our staff! Here you can find a picture and a quick description of everyone in the makerspace staff, along with an email for each if you have any questions.&lt;/p&gt;
+      <id>/blog/staff-board</id>
+      <content type="html" xml:base="/blog/staff-board">&lt;p&gt;Meet our staff! Here you can find a picture and a quick description of everyone in the makerspace staff, along with an email for each if you have any questions.&lt;/p&gt;
 &lt;h2&gt;Kay Bros&lt;/h2&gt;
 &lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/UMass-Makerspace/blog2/master/assets/images/profile-pics/kay.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;(she/her/hers)&lt;/p&gt;
@@ -186,11 +186,11 @@
   
     <entry>
       <title type="html">Laurel’s Page</title>
-      <link href="/blog2/laurel" rel="alternate" type="text/html" title="Laurel's Page" />
+      <link href="/blog/laurel" rel="alternate" type="text/html" title="Laurel's Page" />
       <published>2020-04-04T06:40:00+00:00</published>
       <updated>2020-04-04T06:40:00+00:00</updated>
-      <id>/blog2/laurel</id>
-      <content type="html" xml:base="/blog2/laurel">&lt;p&gt;This is Laurel's test page&lt;/p&gt;</content>
+      <id>/blog/laurel</id>
+      <content type="html" xml:base="/blog/laurel">&lt;p&gt;This is Laurel's test page&lt;/p&gt;</content>
 
       
       

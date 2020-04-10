@@ -2,10 +2,10 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
-  <link href="/blog2/author/jack/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="/blog2/" rel="alternate" type="text/html" />
-  <updated>2020-04-09T00:27:03+00:00</updated>
-  <id>/blog2/author/jack/feed.xml</id>
+  <link href="/blog/author/jack/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="/blog/" rel="alternate" type="text/html" />
+  <updated>2020-04-10T03:14:43+00:00</updated>
+  <id>/blog/author/jack/feed.xml</id>
 
   
   
@@ -63,11 +63,11 @@
   
     <entry>
       <title type="html">Jack’s Page</title>
-      <link href="/blog2/jack" rel="alternate" type="text/html" title="Jack's Page" />
+      <link href="/blog/jack" rel="alternate" type="text/html" title="Jack's Page" />
       <published>2020-04-04T06:40:00+00:00</published>
       <updated>2020-04-04T06:40:00+00:00</updated>
-      <id>/blog2/jack</id>
-      <content type="html" xml:base="/blog2/jack">&lt;p&gt;This is Jack's test page&lt;/p&gt;</content>
+      <id>/blog/jack</id>
+      <content type="html" xml:base="/blog/jack">&lt;p&gt;This is Jack's test page&lt;/p&gt;</content>
 
       
       
@@ -97,11 +97,11 @@
   
     <entry>
       <title type="html">Welcome to Ghost</title>
-      <link href="/blog2/welcome" rel="alternate" type="text/html" title="Welcome to Ghost" />
+      <link href="/blog/welcome" rel="alternate" type="text/html" title="Welcome to Ghost" />
       <published>2017-07-27T10:00:00+00:00</published>
       <updated>2017-07-27T10:00:00+00:00</updated>
-      <id>/blog2/welcome</id>
-      <content type="html" xml:base="/blog2/welcome">&lt;p&gt;Hey! Welcome to Ghost, it’s great to have you :)&lt;/p&gt;
+      <id>/blog/welcome</id>
+      <content type="html" xml:base="/blog/welcome">&lt;p&gt;Hey! Welcome to Ghost, it’s great to have you :)&lt;/p&gt;
 
 &lt;p&gt;We know that first impressions are important, so we’ve populated your new site with some initial &lt;strong&gt;Getting Started&lt;/strong&gt; posts that will help you get familiar with everything in no time. This is the first one!&lt;/p&gt;
 
