@@ -6,7 +6,7 @@ about-us:
   name: about-us
   description: A collection of posts describing who we are and what we do.
   cover: /assets/images/building-shot.JPG
-misc:
-  name: misc
+articles:
+  name: articles
   description: False
   cover: False
