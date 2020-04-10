@@ -1,3 +1,11 @@
+## UMass Amherst Makerspace Blog
+
+This is the UMass Amherst Makerspace blog (formerly UMass Amherst All-Campus Makerspace) and is built on top of jekyll, github pages, and uses travis-ci.
+
+This repository is currently maintained by @jack-champagne, @LaurelParsons, and @navyaravavarapu.
+
+This blog was started as the makerspace moved online during the COVID-19 pandemic.
+
 ## Jasper2
 
 [![Build Status](https://travis-ci.org/UMass-Makerspace/blog2.svg?branch=master)](https://travis-ci.org/umass-makerspace/blog2)
@@ -6,27 +14,6 @@
 
 This is a full-featured port of Ghost's default theme [Casper](https://github.com/tryghost/casper)
 *v2.1.9* for [Jekyll](https://jekyllrb.com/) / [GitHub Pages](https://pages.github.com/).
-
-## Features
-
-* Out of the box support for multiple authors (via `_data/authors.yml`)
-* Full author information including: picture, bio, website, twitter, facebook, etc.
-* Tag description(s) and personalised covers (via `_data/tags.yml`)
-* Related posts view at the bottom of each post
-* All Ghost default pages: Author page(s), Tag page(s), About page(s), 404, etc.
-* Pagination (infinite scrolling or standard pagination, i.e. posts across multiple pages)
-* Atom Feeds by [Jekyll-feed](https://github.com/jekyll/jekyll-feed)
-* Toggleable subscribe button (requires an external service)
-* Code Syntax Highlight with [highlight.js](https://highlightjs.org/)
-* Support for Google Analytics tracking
-* Support for Disqus comments (not Ghost standard)
-
-### Author Pages
-
-In order to properly generate author pages you need to rename the field *author* in the
-front matter of every post to match that of your each author's *username* as defined
-in the *[\_data/authors.yml](_data/authors.yml)* file.
-With the latest update, multiple author blogs are now supported out of the box.
 
 ## Copyright & License
 
