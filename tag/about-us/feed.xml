@@ -2,10 +2,10 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
-  <link href="/blog/tag/getting-started/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="/blog/tag/about-us/feed.xml" rel="self" type="application/atom+xml" />
   <link href="/blog/" rel="alternate" type="text/html" />
-  <updated>2020-04-10T04:53:18+00:00</updated>
-  <id>/blog/tag/getting-started/feed.xml</id>
+  <updated>2020-04-10T05:04:16+00:00</updated>
+  <id>/blog/tag/about-us/feed.xml</id>
 
   
   
@@ -171,7 +171,7 @@
       
 
       
-        <category term="Getting started" />
+        <category term="About Us" />
       
 
       
@@ -183,8 +183,8 @@
     </entry>
   
     <entry>
-      <title type="html">Introduction of Staff</title>
-      <link href="/blog/staff-intro" rel="alternate" type="text/html" title="Introduction of Staff" />
+      <title type="html">Introduction</title>
+      <link href="/blog/staff-intro" rel="alternate" type="text/html" title="Introduction" />
       <published>2020-04-04T06:40:00+00:00</published>
       <updated>2020-04-04T06:40:00+00:00</updated>
       <id>/blog/staff-intro</id>
@@ -225,7 +225,7 @@
       
 
       
-        <category term="Getting started" />
+        <category term="About Us" />
       
 
       
