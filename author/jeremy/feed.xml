@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="/blog/author/jeremy/feed.xml" rel="self" type="application/atom+xml" />
   <link href="/blog/" rel="alternate" type="text/html" />
-  <updated>2020-04-10T04:00:51+00:00</updated>
+  <updated>2020-04-10T04:09:06+00:00</updated>
   <id>/blog/author/jeremy/feed.xml</id>
 
   
@@ -58,5 +58,39 @@
   
   
 
+  
+    <entry>
+      <title type="html">Jeremy’s Page</title>
+      <link href="/blog/jeremy" rel="alternate" type="text/html" title="Jeremy's Page" />
+      <published>2020-04-04T06:40:00+00:00</published>
+      <updated>2020-04-04T06:40:00+00:00</updated>
+      <id>/blog/jeremy</id>
+      <content type="html" xml:base="/blog/jeremy">&lt;p&gt;This is Jeremy's test page&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Jeremy Paradie</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="Test Posts" />
+      
+
+      
+        <summary type="html">This is Jeremy's test page</summary>
+      
+
+      
+      
+    </entry>
   
 </feed>

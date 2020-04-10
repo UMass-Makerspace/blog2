@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="/blog/author/laurel/feed.xml" rel="self" type="application/atom+xml" />
   <link href="/blog/" rel="alternate" type="text/html" />
-  <updated>2020-04-10T04:00:51+00:00</updated>
+  <updated>2020-04-10T04:09:06+00:00</updated>
   <id>/blog/author/laurel/feed.xml</id>
 
   
@@ -176,6 +176,40 @@
 
       
         <summary type="html">Meet our staff! Here you can find a picture and a quick description of everyone in the makerspace staff, along with an email for each if you have any questions. Kay Bros (she/her/hers) kbros@umass.edu Ask me about: Fabric, yarn, thread, LEDs, soft circuits, Arduino/Pi/Lilypad, accessibility, documentation, telescopes/optics Julius Rosenthal (he/him/his) juliusrosent@umass.edu Ask me about: All things automotive, general repairs &amp; maintenance, hand/power/shop tools, machining, soldering Philip Van (he/him/his) pvan@umass.edu Ask me about: 3D design &amp; printing, programming, woodworking, mechanical tools, machining Tyler Kerwin (he/him/his) tkerwin@umass.edu Ask me about: Woodworking, construction, drones, mapping, econ/trading Jeremy Paradie (he/him/his) jparadie@umass.edu https://www.jeremyparadie.com/ Ask me about: Batteries, motors, microcontrollers, enclosures, wiring, piezos, servos, power supplies, general electronics, high voltage, tools and machines, design, rapid prototyping, surface mount soldering, reverse engineering, Processing, Arduino, mBed, 3d printing, robotics, Solidworks, Onshape, Altium, Tinkercad Connor Loughman (he/him/his) cloughman@umass.edu Ask me about: Soldering, math, coding, computer hardware/troubleshooting, woodworking, laser cutting Jack Champagne (he/him/his) jrchampagne@umass.edu www.jackchampage.com Ask me about: Programming (C++, Java, Python), CNC machining, electrical schematics, circuit design, component identification &amp; description Thomas O’Connor (he/him/his) thooconnor@umass.edu Ask me about: Environmental studies, Geographic Information Systems (GIS), marketing Navya Ravavarapu (she/her/hers) nravavarapu@umass.edu Ask me about: Graphic design, marketing Paolo Brandon (he/him/his) pbrandon@umass.edu Ask me about: Machining, blacksmithing, woodworking, CAD, 3D printing, Illustrator, Photoshop, prototyping, LEGOs, poetry Jessica Scott (she/her/hers) jessicascott@umass.edu Ask me about: Puppet building, puppet mechs, adhesives, basic woodworking, basic casting &amp; molding, basic sewing, soft-sculpture, mask-making, flat-patterning with foam, sculpting, jello and sugar glass David Schottler (he/him/his) dschottler@umass.edu Ask me about: Recreational costume design, popsicle sticks, foam crafting, Pepakura Margaret Polsgrove (she/her/hers) mpolsgrove@umass.edu Ask me about: Woodworking, basketry, leatherworking, welding, bike repair, Python, Excel, Matlab, Final Cut Pro, circuit debugging, servos/motors, soldering Costanza Fusco (she/her/hers) costanzafusc@umass.edu Ask me about: Woodworking, sewing and fiber art, leatherworking, resin casting and mold making, soldering, pattern drafting, painting, basic 3D modeling, LEDs and piezoelectronics, microscopy Laurel Parsons (she/her/hers) laparsons@umass.edu Ask me about: Programming, Android Studio, Arduino, basic circuitry, sewing, foamwork, soldering</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Laurel’s Page</title>
+      <link href="/blog/laurel" rel="alternate" type="text/html" title="Laurel's Page" />
+      <published>2020-04-04T06:40:00+00:00</published>
+      <updated>2020-04-04T06:40:00+00:00</updated>
+      <id>/blog/laurel</id>
+      <content type="html" xml:base="/blog/laurel">&lt;p&gt;This is Laurel's test page&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Laurel Parsons</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="Test Posts" />
+      
+
+      
+        <summary type="html">This is Laurel's test page</summary>
       
 
       
