@@ -10,7 +10,7 @@ baseurl: /blog/
 
 # Website info
 title: UMass Amherst Makerspace
-description: Blog for makers.
+description: UMass Amherst Makerspace Blog
 cover: assets/images/umass-skyline.JPG
 logo: assets/images/makerspace-logo.png
 logo_dark: assets/images/makerspace-logo.png
