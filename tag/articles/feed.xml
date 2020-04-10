@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="/blog/tag/articles/feed.xml" rel="self" type="application/atom+xml" />
   <link href="/blog/" rel="alternate" type="text/html" />
-  <updated>2020-04-10T17:52:57+00:00</updated>
+  <updated>2020-04-10T19:52:27+00:00</updated>
   <id>/blog/tag/articles/feed.xml</id>
 
   
@@ -156,6 +156,74 @@
 
       
         <summary type="html">Hello! Welcome to the Makerspace Automotive Newsletter! I’m Julius and I’m here to bring you an occasional blog post to teach you about automotive history, talk about current interesting innovations and happenings in the world of cars, and generally provide my commentary on all things automotive. Be it electric, gas, sedan, pickup, commuter or race, it’s like the wild freaking west out here and nothing is off limits….</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Everything to know about Drills</title>
+      <link href="/blog/drills" rel="alternate" type="text/html" title="Everything to know about Drills" />
+      <published>2020-04-06T01:11:00+00:00</published>
+      <updated>2020-04-06T01:11:00+00:00</updated>
+      <id>/blog/drills</id>
+      <content type="html" xml:base="/blog/drills">&lt;h2 id=&quot;hand-tools-cordless-drill---torque-speed-uses&quot;&gt;Hand Tools: Cordless Drill - Torque, Speed, Uses&lt;/h2&gt;
+
+&lt;p&gt;One of the most used tools in any shop will likely be a cordless drill. At the UMass Amherst Makerspace, we use Milwaukee M18 Fuel ½” hammer drill/drivers. In many words, it’s this:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/drills/image1.png&quot; alt=&quot;Our drill of choice&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Drills are easy and generally very safe tools, and can make holes in material (wood, metal, masonry), and they can attach two materials together using screws. This all sounds dumb right? Everybody knows what a drill is and how to use it - you just pull the trigger and walk away. This is true! But, not everybody knows how to use drills the &lt;em&gt;right way.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;getting-started&quot;&gt;Getting Started&lt;/h2&gt;
+
+&lt;p&gt;The first thing to do is grab a battery and a drill from our charging station.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/drills/image2.png&quot; alt=&quot;Drill battery and charger&quot; /&gt;
+&lt;em&gt;Drill battery (left) and charger (right)&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Slide the battery into the slot on the drill. Next, you need a bit. Depending on what size hole you will be drilling, or what type of screw you are driving you will need a bit with the corresponding size and shape. To choose a bit for driving screws, find the screw you want and try pushing your bit into the top of it. If it fits snugly, you’ve got the right bit! To decide on a bit to drive a hole, you want to find one that is just slightly bigger than the screw you’ll be using. To install the bit, twist the black piece on the drill that is located right past the torque dial (grey rotating piece). Twisting this loosens and tightens the drill’s grip on bits, or the chuck.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/drills/image3.png&quot; alt=&quot;Figure 1&quot; /&gt;
+&lt;em&gt;Figure 1: Philips head drill bit, used for driving screws&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/drills/image4.png&quot; alt=&quot;Figure 2&quot; /&gt;
+&lt;em&gt;Figure 2: Drill bits used for drilling holes&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/drills/image5.png&quot; alt=&quot;Figure 3&quot; /&gt;
+&lt;em&gt;Figure 3: How to insert a drill bit&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;adjusting-speed-and-torque&quot;&gt;Adjusting Speed and Torque&lt;/h2&gt;
+
+&lt;p&gt;To adjust the speed, flip the black switch located on top. There will be a 1 (slow) and a 2 (fast) setting. Typically, if you are driving screws you will want higher speeds, and drilling holes you will want lower speeds. This then brings torque into play.&lt;/p&gt;
+
+&lt;p&gt;To adjust torque, simply twist the grey dial with numbers 1-14 and a couple symbols on it. To drill a hole, switch the speed to 1, and adjust the torque to the drill setting (it looks like a drill bit, and is the highest torque possible). Drilling holes is best done with &lt;strong&gt;low speed and high torque.&lt;/strong&gt; Driving screws is a bit different: start with high speed and the lowest torque possible. Each time the drill won’t drive the screw any deeper, move up in torque. Continue this process until the screw is flush with the material you are screwing into. Whatever number you landed on is what you should continue the project on (this is the torque required for whatever material you are using). Adjust as necessary.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/drills/image6.png&quot; alt=&quot;Drill overhead&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Well if you made it this far then you are a pro on drilling now. If you skipped to the bottom, then here is a video for you instead: &lt;a href=&quot;https://www.youtube.com/watch?v=O8rINDIWU-g&quot;&gt;Drills for Dummies&lt;/a&gt;&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Tyler Kerwin</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="articles" />
+      
+
+      
+        <summary type="html">Hand Tools: Cordless Drill - Torque, Speed, Uses</summary>
       
 
       
