@@ -143,7 +143,11 @@
       <item>
         <title>Introduction</title>
         
-          <description>&lt;p&gt;Welcome to the staff of the UMass Amherst Makerspace&lt;/p&gt;
+          <description>&lt;p&gt;Connor and Jack take you through the history of computing and through a brief understanding of the components that make up modern computers.&lt;/p&gt;
+
+&lt;figure class=&quot;video_container&quot;&gt;
+	&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/d22ChiaMofg&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/figure&gt;
 </description>
         
         <pubDate>Sat, 04 Apr 2020 06:40:00 +0000</pubDate>
