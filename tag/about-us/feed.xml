@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="/blog/tag/about-us/feed.xml" rel="self" type="application/atom+xml" />
   <link href="/blog/" rel="alternate" type="text/html" />
-  <updated>2020-04-10T22:23:21+00:00</updated>
+  <updated>2020-04-10T22:27:46+00:00</updated>
   <id>/blog/tag/about-us/feed.xml</id>
 
   
@@ -176,44 +176,6 @@
 
       
         <summary type="html">Meet our staff! Here you can find a picture and a quick description of everyone in the makerspace staff, along with an email for each if you have any questions. Kay Bros (she/her/hers) kbros@umass.edu Ask me about: Fabric, yarn, thread, LEDs, soft circuits, Arduino/Pi/Lilypad, accessibility, documentation, telescopes/optics Julius Rosenthal (he/him/his) juliusrosent@umass.edu Ask me about: All things automotive, general repairs &amp; maintenance, hand/power/shop tools, machining, soldering Philip Van (he/him/his) pvan@umass.edu Ask me about: 3D design &amp; printing, programming, woodworking, mechanical tools, machining Tyler Kerwin (he/him/his) tkerwin@umass.edu Ask me about: Woodworking, construction, drones, mapping, econ/trading Jeremy Paradie (he/him/his) jparadie@umass.edu https://www.jeremyparadie.com/ Ask me about: Batteries, motors, microcontrollers, enclosures, wiring, piezos, servos, power supplies, general electronics, high voltage, tools and machines, design, rapid prototyping, surface mount soldering, reverse engineering, Processing, Arduino, mBed, 3d printing, robotics, Solidworks, Onshape, Altium, Tinkercad Connor Loughman (he/him/his) cloughman@umass.edu Ask me about: Soldering, math, coding, computer hardware/troubleshooting, woodworking, laser cutting Jack Champagne (he/him/his) jrchampagne@umass.edu www.jackchampage.com Ask me about: Programming (C++, Java, Python), CNC machining, electrical schematics, circuit design, component identification &amp; description Thomas O’Connor (he/him/his) thooconnor@umass.edu Ask me about: Environmental studies, Geographic Information Systems (GIS), marketing Navya Ravavarapu (she/her/hers) nravavarapu@umass.edu Ask me about: Graphic design, marketing Paolo Brandon (he/him/his) pbrandon@umass.edu Ask me about: Machining, blacksmithing, woodworking, CAD, 3D printing, Illustrator, Photoshop, prototyping, LEGOs, poetry Jessica Scott (she/her/hers) jessicascott@umass.edu Ask me about: Puppet building, puppet mechs, adhesives, basic woodworking, basic casting &amp; molding, basic sewing, soft-sculpture, mask-making, flat-patterning with foam, sculpting, jello and sugar glass David Schottler (he/him/his) dschottler@umass.edu Ask me about: Recreational costume design, popsicle sticks, foam crafting, Pepakura Margaret Polsgrove (she/her/hers) mpolsgrove@umass.edu Ask me about: Woodworking, basketry, leatherworking, welding, bike repair, Python, Excel, Matlab, Final Cut Pro, circuit debugging, servos/motors, soldering Costanza Fusco (she/her/hers) costanzafusc@umass.edu Ask me about: Woodworking, sewing and fiber art, leatherworking, resin casting and mold making, soldering, pattern drafting, painting, basic 3D modeling, LEDs and piezoelectronics, microscopy Laurel Parsons (she/her/hers) laparsons@umass.edu Ask me about: Programming, Android Studio, Arduino, basic circuitry, sewing, foamwork, soldering</summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">Introduction</title>
-      <link href="/blog/tech1" rel="alternate" type="text/html" title="Introduction" />
-      <published>2020-04-04T06:40:00+00:00</published>
-      <updated>2020-04-04T06:40:00+00:00</updated>
-      <id>/blog/tech1</id>
-      <content type="html" xml:base="/blog/tech1">&lt;p&gt;Connor and Jack take you through the history of computing and through a brief understanding of the components that make up modern computers.&lt;/p&gt;
-
-&lt;figure class=&quot;video_container&quot;&gt;
-	&lt;iframe src=&quot;https://www.youtube.com/embed/d22ChiaMofg&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;true&quot;&gt; &lt;/iframe&gt;
-&lt;/figure&gt;</content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name>Jack Champagne</name>
-        
-        
-      </author>
-
-      
-
-      
-        <category term="About Us" />
-      
-
-      
-        <summary type="html">Connor and Jack take you through the history of computing and through a brief understanding of the components that make up modern computers.</summary>
       
 
       
