@@ -3,6 +3,10 @@ getting-started:
   description: False
   cover: False
 about-us:
-  name: About Us
+  name: about-us
   description: A collection of posts describing who we are and what we do.
   cover: /assets/images/building-shot.JPG
+misc:
+  name: misc
+  description: False
+  cover: False
