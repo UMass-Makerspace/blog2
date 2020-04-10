@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="/blog/author/thomas/feed.xml" rel="self" type="application/atom+xml" />
   <link href="/blog/" rel="alternate" type="text/html" />
-  <updated>2020-04-10T03:52:33+00:00</updated>
+  <updated>2020-04-10T04:00:51+00:00</updated>
   <id>/blog/author/thomas/feed.xml</id>
 
   
@@ -58,39 +58,5 @@
   
   
 
-  
-    <entry>
-      <title type="html">Thomas’s Page</title>
-      <link href="/blog/thomas.html" rel="alternate" type="text/html" title="Thomas's Page" />
-      <published>2020-04-04T06:40:00+00:00</published>
-      <updated>2020-04-04T06:40:00+00:00</updated>
-      <id>/blog/thomas.html</id>
-      <content type="html" xml:base="/blog/thomas.html">&lt;p&gt;This is Thomas's test page&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name>Thomas O’Connor</name>
-        
-        
-      </author>
-
-      
-
-      
-        <category term="Test Posts" />
-      
-
-      
-        <summary type="html">This is Thomas's test page</summary>
-      
-
-      
-      
-    </entry>
   
 </feed>

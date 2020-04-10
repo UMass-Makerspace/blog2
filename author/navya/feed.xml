@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="/blog/author/navya/feed.xml" rel="self" type="application/atom+xml" />
   <link href="/blog/" rel="alternate" type="text/html" />
-  <updated>2020-04-10T03:52:33+00:00</updated>
+  <updated>2020-04-10T04:00:51+00:00</updated>
   <id>/blog/author/navya/feed.xml</id>
 
   
@@ -58,40 +58,6 @@
   
   
 
-  
-    <entry>
-      <title type="html">Navya’s Page</title>
-      <link href="/blog/navya.html" rel="alternate" type="text/html" title="Navya's Page" />
-      <published>2020-04-04T06:40:00+00:00</published>
-      <updated>2020-04-04T06:40:00+00:00</updated>
-      <id>/blog/navya.html</id>
-      <content type="html" xml:base="/blog/navya.html">&lt;p&gt;This is Navya's test page&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name>Navya Ravavarapu</name>
-        
-        
-      </author>
-
-      
-
-      
-        <category term="Test Posts" />
-      
-
-      
-        <summary type="html">This is Navya's test page</summary>
-      
-
-      
-      
-    </entry>
   
     <entry>
       <title type="html">Introduction of Staff</title>
