@@ -8,10 +8,10 @@ class: page-template
 subclass: 'post page'
 ---
 
-Ghost is professional publishing platform designed for modern journalism. This is a demo site of a basic Ghost install to give you a general sense of what a new Ghost site looks like when set up for the first time.
+The UMass Amherst All-Campus Makerspace is an interdisciplinary makerspace open to students, staff, and faculty from all majors and disciplines. We provide access to space, tools, equipment, training, and help connect individuals and facilitate mentorship and sharing of knowledge.
 
-> If you'd like to set up a site like this for yourself, head over to [Ghost.org](https://ghost.org/) and start a free 14 day trial to give Ghost a try!
+Due to COVID-19, we are going online!
 
-If you're a developer: Ghost is a completely open source (MIT) Node.js application built on a JSON API with an Ember.js admin client. It works with MySQL and SQLite, and is publicly available [on Github](https://github.com/TryGhost/ghost).
+> The UMass Amherst Makerspace provides tools, space, and mentorship to the campus community. It's a place for hands-on learning; for personal and academic projects; for meeting people; and for woodworking, sewing, 3D printing, and so much more. Our collection of tools and our community knowledge base is always growing. Come visit and make something amazing.
 
-If you need help with using Ghost, you'll find a ton of useful articles on [our knowledgebase](https://help.ghost.org/), as well as extensive [developer documentation](https://docs.ghost.org/).
+Check out our [google site](https://sites.google.com/umass.edu/all-campus-makerspace) as well!
