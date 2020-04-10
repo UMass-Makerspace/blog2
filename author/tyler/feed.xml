@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="/blog/author/tyler/feed.xml" rel="self" type="application/atom+xml" />
   <link href="/blog/" rel="alternate" type="text/html" />
-  <updated>2020-04-10T04:09:06+00:00</updated>
+  <updated>2020-04-10T04:20:05+00:00</updated>
   <id>/blog/author/tyler/feed.xml</id>
 
   
@@ -58,39 +58,5 @@
   
   
 
-  
-    <entry>
-      <title type="html">Tyler’s Page</title>
-      <link href="/blog/tyler" rel="alternate" type="text/html" title="Tyler's Page" />
-      <published>2020-04-04T06:40:00+00:00</published>
-      <updated>2020-04-04T06:40:00+00:00</updated>
-      <id>/blog/tyler</id>
-      <content type="html" xml:base="/blog/tyler">&lt;p&gt;This is Tyler's test page&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name>Tyler Kerwin</name>
-        
-        
-      </author>
-
-      
-
-      
-        <category term="Test Posts" />
-      
-
-      
-        <summary type="html">This is Tyler's test page</summary>
-      
-
-      
-      
-    </entry>
   
 </feed>
