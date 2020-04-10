@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="/blog/author/costanza/feed.xml" rel="self" type="application/atom+xml" />
   <link href="/blog/" rel="alternate" type="text/html" />
-  <updated>2020-04-10T03:33:19+00:00</updated>
+  <updated>2020-04-10T03:41:42+00:00</updated>
   <id>/blog/author/costanza/feed.xml</id>
 
   
@@ -53,8 +53,6 @@
     
       
     
-      
-    
   
 
   
@@ -63,11 +61,11 @@
   
     <entry>
       <title type="html">Costanza’s Page</title>
-      <link href="/blog/costanza" rel="alternate" type="text/html" title="Costanza's Page" />
+      <link href="/blog/costanza.html" rel="alternate" type="text/html" title="Costanza's Page" />
       <published>2020-04-04T06:40:00+00:00</published>
       <updated>2020-04-04T06:40:00+00:00</updated>
-      <id>/blog/costanza</id>
-      <content type="html" xml:base="/blog/costanza">&lt;p&gt;This is Costanza's test page&lt;/p&gt;</content>
+      <id>/blog/costanza.html</id>
+      <content type="html" xml:base="/blog/costanza.html">&lt;p&gt;This is Costanza's test page&lt;/p&gt;</content>
 
       
       

@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="/blog/author/laurel/feed.xml" rel="self" type="application/atom+xml" />
   <link href="/blog/" rel="alternate" type="text/html" />
-  <updated>2020-04-10T03:33:19+00:00</updated>
+  <updated>2020-04-10T03:41:42+00:00</updated>
   <id>/blog/author/laurel/feed.xml</id>
 
   
@@ -22,8 +22,6 @@
   
 
   
-    
-      
     
       
     
@@ -186,11 +184,11 @@
   
     <entry>
       <title type="html">Laurel’s Page</title>
-      <link href="/blog/laurel" rel="alternate" type="text/html" title="Laurel's Page" />
+      <link href="/blog/laurel.html" rel="alternate" type="text/html" title="Laurel's Page" />
       <published>2020-04-04T06:40:00+00:00</published>
       <updated>2020-04-04T06:40:00+00:00</updated>
-      <id>/blog/laurel</id>
-      <content type="html" xml:base="/blog/laurel">&lt;p&gt;This is Laurel's test page&lt;/p&gt;</content>
+      <id>/blog/laurel.html</id>
+      <content type="html" xml:base="/blog/laurel.html">&lt;p&gt;This is Laurel's test page&lt;/p&gt;</content>
 
       
       

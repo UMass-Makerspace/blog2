@@ -11,7 +11,7 @@
 
 
 
-    <title>Welcome to Ghost</title>
+    <title>Jeremy's Page</title>
     <meta name="HandheldFriendly" content="True" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <!-- Styles'n'Scripts -->
@@ -36,30 +36,32 @@
     <!-- This tag outputs SEO meta+structured data and other important settings -->
     <meta name="description" content="Blog for makers." />
     <link rel="shortcut icon" href="/blog/assets/images/favicon-invert.ico" type="image/png" />
-    <link rel="canonical" href="/blog/welcome" />
+    <link rel="canonical" href="/blog/jeremy.html" />
     <meta name="referrer" content="no-referrer-when-downgrade" />
 
      <!--title below is coming from _includes/dynamic_title-->
     <meta property="og:site_name" content="UMass Amherst Makerspace" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Welcome to Ghost" />
-    <meta property="og:description" content="Hey! Welcome to Ghost, it’s great to have you :) We know that first impressions are important, so we’ve populated your new site with some initial Getting Started posts that will help you get familiar with everything in no time. This is the first one! There are a few things" />
-    <meta property="og:url" content="/blog/welcome" />
-    <meta property="og:image" content="/blog/assets/images/welcome.jpg" />
+    <meta property="og:title" content="Jeremy's Page" />
+    <meta property="og:description" content="This is Jeremy's test page
+" />
+    <meta property="og:url" content="/blog/jeremy.html" />
+    <meta property="og:image" content="/blog/assets/images/jack-profile.jpg" />
     <meta property="article:publisher" content="https://www.facebook.com/allcampusmakerspace" />
     <meta property="article:author" content="https://www.facebook.com/allcampusmakerspace" />
-    <meta property="article:published_time" content="2017-07-27T10:00:00+00:00" />
-    <meta property="article:modified_time" content="2017-07-27T10:00:00+00:00" />
-    <meta property="article:tag" content="Getting Started" />
+    <meta property="article:published_time" content="2020-04-04T06:40:00+00:00" />
+    <meta property="article:modified_time" content="2020-04-04T06:40:00+00:00" />
+    <meta property="article:tag" content="Test Posts" />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Welcome to Ghost" />
-    <meta name="twitter:description" content="Hey! Welcome to Ghost, it’s great to have you :) We know that first impressions are important, so we’ve populated your new site with some initial Getting Started posts that will help you get familiar with everything in no time. This is the first one! There are a few things" />
+    <meta name="twitter:title" content="Jeremy's Page" />
+    <meta name="twitter:description" content="This is Jeremy's test page
+" />
     <meta name="twitter:url" content="/blog/" />
-    <meta name="twitter:image" content="/blog/assets/images/welcome.jpg" />
+    <meta name="twitter:image" content="/blog/assets/images/jack-profile.jpg" />
     <meta name="twitter:label1" content="Written by" />
     <meta name="twitter:data1" content="UMass Amherst Makerspace" />
     <meta name="twitter:label2" content="Filed under" />
-    <meta name="twitter:data2" content="Getting Started" />
+    <meta name="twitter:data2" content="Test Posts" />
     <meta name="twitter:site" content="@" />
     <meta name="twitter:creator" content="@" />
     <meta property="og:image:width" content="1400" />
@@ -74,18 +76,19 @@
         "name": "UMass Amherst Makerspace",
         "logo": "/blog/assets/images/makerspace-logo.png"
     },
-    "url": "/blog/welcome",
+    "url": "/blog/jeremy.html",
     "image": {
         "@type": "ImageObject",
-        "url": "/blog/assets/images/welcome.jpg",
+        "url": "/blog/assets/images/jack-profile.jpg",
         "width": 2000,
         "height": 666
     },
     "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "/blog/welcome"
+        "@id": "/blog/jeremy.html"
     },
-    "description": "Hey! Welcome to Ghost, it’s great to have you :) We know that first impressions are important, so we’ve populated your new site with some initial Getting Started posts that will help you get familiar with everything in no time. This is the first one! There are a few things"
+    "description": "This is Jeremy's test page
+"
 }
     </script>
 
@@ -98,7 +101,7 @@
     </script> -->
 
     <meta name="generator" content="Jekyll 3.6.2" />
-    <link rel="alternate" type="application/rss+xml" title="Welcome to Ghost" href="/blog/feed.xml" />
+    <link rel="alternate" type="application/rss+xml" title="Jeremy's Page" href="/blog/feed.xml" />
 
 
 </head>
@@ -153,46 +156,31 @@ into the {body} of the default.hbs template -->
 <main id="site-main" class="site-main outer" role="main">
     <div class="inner">
 
-        <article class="post-full post tag-getting-started ">
+        <article class="post-full post tag-test-posts ">
 
             <header class="post-full-header">
                 <section class="post-full-meta">
-                    <time class="post-full-meta-date" datetime="27 July 2017">27 July 2017</time>
+                    <time class="post-full-meta-date" datetime=" 4 April 2020"> 4 April 2020</time>
                     
                         <span class="date-divider">/</span>
                         
                             
-                               <a href='/blog/tag/getting-started/'>GETTING STARTED</a>
+                               <a href='/blog/tag/test-posts/'>TEST POSTS</a>
                             
                         
                     
                 </section>
-                <h1 class="post-full-title">Welcome to Ghost</h1>
+                <h1 class="post-full-title">Jeremy's Page</h1>
             </header>
 
             
-            <figure class="post-full-image" style="background-image: url(/blog/assets/images/welcome.jpg)">
+            <figure class="post-full-image" style="background-image: url(/blog/assets/images/jack-profile.jpg)">
             </figure>
             
 
             <section class="post-full-content">
                 <div class="kg-card-markdown">
-                    <p>Hey! Welcome to Ghost, it’s great to have you :)</p>
-
-<p>We know that first impressions are important, so we’ve populated your new site with some initial <strong>Getting Started</strong> posts that will help you get familiar with everything in no time. This is the first one!</p>
-
-<h3 id="there-are-a-few-things-that-you-should-know-up-front">There are a few things that you should know up-front:</h3>
-<ol>
-  <li>Ghost is designed for ambitious, professional publishers who want to actively build a business around their content. That’s who it works best for. If you’re using Ghost for some other purpose, that’s fine too - but it might not be the best choice for you.</li>
-  <li>The entire platform can be modified and customized to suit your needs, which is very powerful, but doing so <strong>does</strong> require some knowledge of code. Ghost is not necessarily a good platform for beginners or people who just want a simple personal blog.</li>
-  <li>For the best experience we recommend downloading the Ghost Desktop App for your computer, which is the best way to access your Ghost site on a desktop device.</li>
-</ol>
-
-<p>Ghost is made by an independent non-profit organisation called the Ghost Foundation. We are 100% self funded by revenue from our <a href="https://ghost.org/pricing">Ghost(Pro)</a> service, and every penny we make is re-invested into funding further development of free, open source technology for modern journalism.</p>
-
-<p>The main thing you’ll want to read about next is probably: <a href="https://demo.ghost.io/the-editor/">the Ghost editor</a>.</p>
-
-<p>Once you’re done reading, you can simply delete the default <strong>Ghost</strong> user from your team to remove all of these introductory posts!</p>
+                    <p>This is Jeremy's test page</p>
 
                 </div>
             </section>
@@ -222,30 +210,28 @@ into the {body} of the default.hbs template -->
                     
                 
                     
+                
+                    
+                
+                    
+                
+                    
+                
+                    
                         <section class="author-card">
                             
-                                <img class="author-profile-image" src="/blog/assets/images/profile-pics/jack.jpg" alt="jack" />
+                                <img class="author-profile-image" src="/blog/assets/images/profile-pics/jeremy.jpg" alt="jeremy" />
                             
                             <section class="author-card-content">
-                                <h4 class="author-card-name"><a href="/blog/author/jack">Jack Champagne</a></h4>
+                                <h4 class="author-card-name"><a href="/blog/author/jeremy">Jeremy Paradie</a></h4>
                                 
-                                    <p>(he/him/his) Programming (C++, Java, Python), CNC machining, electrical schematics, circuit design, component identification & description</p>
+                                    <p>(he/him/his)  Batteries, motors, microcontrollers, enclosures, wiring, piezos, servos, power supplies, general electronics, high voltage, tools and machines, design, rapid prototyping, surface mount soldering, reverse engineering, Processing, Arduino, mBed, 3d printing, robotics, Solidworks, Onshape, Altium, Tinkercad</p>
                                 
                             </section>
                         </section>
                         <div class="post-full-footer-right">
-                            <a class="author-card-button" href="/blog/author/jack">Read More</a>
+                            <a class="author-card-button" href="/blog/author/jeremy">Read More</a>
                         </div>
-                    
-                
-                    
-                
-                    
-                
-                    
-                
-                    
-                
                     
                 
                     
@@ -296,7 +282,7 @@ into the {body} of the default.hbs template -->
                         <header class="read-next-card-header">
                             <small class="read-next-card-header-sitetitle">&mdash; UMass Amherst Makerspace &mdash;</small>
                             
-                                <h3 class="read-next-card-header-title"><a href="/blog/tag/getting-started/">Getting started</a></h3>
+                                <h3 class="read-next-card-header-title"><a href="/blog/tag/test-posts/">Test posts</a></h3>
                             
                         </header>
                         <div class="read-next-divider"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 14.5s2 3 5 3 5.5-2.463 5.5-5.5S21 6.5 18 6.5c-5 0-7 11-12 11C2.962 17.5.5 15.037.5 12S3 6.5 6 6.5s4.5 3.5 4.5 3.5"/></svg>
@@ -306,54 +292,13 @@ into the {body} of the default.hbs template -->
                                 
                                 
                                   
-                                    
-                                        
-                                        
-                                            <li><a href="/blog/staff-board">Meet our staff!</a></li>
-                                        
-                                    
-                                  
-                                
-                                  
-                                
-                                  
-                                
-                                  
                                 
                                   
                                     
                                         
                                         
-                                            <li><a href="/blog/staff-intro">Introduction of Staff</a></li>
+                                            <li><a href="/blog/tyler.html">Tyler's Page</a></li>
                                         
-                                    
-                                  
-                                
-                                  
-                                
-                                  
-                                
-                                  
-                                
-                                  
-                                
-                                  
-                                
-                                  
-                                
-                                  
-                                
-                                  
-                                
-                                  
-                                
-                                  
-                                
-                                  
-                                
-                                  
-                                
-                                  
                                     
                                   
                                 
@@ -361,7 +306,32 @@ into the {body} of the default.hbs template -->
                                     
                                         
                                         
-                                            <li><a href="/blog/the-editor">Using the Ghost editor</a></li>
+                                            <li><a href="/blog/thomas.html">Thomas's Page</a></li>
+                                        
+                                    
+                                  
+                                
+                                  
+                                    
+                                        
+                                        
+                                            <li><a href="/blog/theresa.html">Theresa's Page</a></li>
+                                        
+                                    
+                                  
+                                
+                                  
+                                
+                                  
+                                    
+                                        
+                                        
+                                    
+                                  
+                                
+                                  
+                                    
+                                        
                                         
                                     
                                   
@@ -401,14 +371,44 @@ into the {body} of the default.hbs template -->
                                     
                                   
                                 
+                                  
+                                    
+                                  
+                                
+                                  
+                                    
+                                        
+                                        
+                                    
+                                  
+                                
+                                  
+                                    
+                                        
+                                        
+                                    
+                                  
+                                
+                                  
+                                    
+                                        
+                                        
+                                    
+                                  
+                                
+                                  
+                                    
+                                        
+                                        
+                                    
                                   
                                 
                             </ul>
                         </div>
                         <footer class="read-next-card-footer">
-                            <a href="/blog/tag/getting-started/">
+                            <a href="/blog/tag/test-posts/">
                                 
-                                    See all 8 posts  →
+                                    See all 14 posts  →
                                 
                             </a>
                         </footer>
@@ -422,12 +422,12 @@ into the {body} of the default.hbs template -->
 
     <article class="post-card post-template">
         
-            <a class="post-card-image-link" href="/blog/connor.html">
+            <a class="post-card-image-link" href="/blog/jessica.html">
                 <div class="post-card-image" style="background-image: url(/blog/assets/images/jack-profile.jpg)"></div>
             </a>
         
         <div class="post-card-content">
-            <a class="post-card-content-link" href="/blog/connor.html">
+            <a class="post-card-content-link" href="/blog/jessica.html">
                 <header class="post-card-header">
                     
                         
@@ -437,7 +437,7 @@ into the {body} of the default.hbs template -->
                         
                     
 
-                    <h2 class="post-card-title">Connor's Page</h2>
+                    <h2 class="post-card-title">Jessica's Page</h2>
                 </header>
                 <section class="post-card-excerpt">
                     
@@ -462,20 +462,18 @@ into the {body} of the default.hbs template -->
                     
                 
                     
+                
+                    
+                
+                    
+                
+                    
                         
-                        <img class="author-profile-image" src="/blog/assets/images/profile-pics/connor.jpg" alt="Connor Loughman" />
+                        <img class="author-profile-image" src="/blog/assets/images/profile-pics/jess.jpg" alt="Jessica Scott" />
                         
                         <span class="post-card-author">
-                            <a href="/blog/author/connor/">Connor Loughman</a>
+                            <a href="/blog/author/jessica/">Jessica Scott</a>
                         </span>
-                    
-                
-                    
-                
-                    
-                
-                    
-                
                     
                 
                     
@@ -504,22 +502,22 @@ into the {body} of the default.hbs template -->
 
     <article class="post-card post-template">
         
-            <a class="post-card-image-link" href="/blog/the-editor">
-                <div class="post-card-image" style="background-image: url(/blog/assets/images/writing.jpg)"></div>
+            <a class="post-card-image-link" href="/blog/jack.html">
+                <div class="post-card-image" style="background-image: url(/blog/assets/images/jack-profile.jpg)"></div>
             </a>
         
         <div class="post-card-content">
-            <a class="post-card-content-link" href="/blog/the-editor">
+            <a class="post-card-content-link" href="/blog/jack.html">
                 <header class="post-card-header">
                     
                         
                             
-                                <span class="post-card-tags">Getting started</span>
+                                <span class="post-card-tags">Test posts</span>
                             
                         
                     
 
-                    <h2 class="post-card-title">Using the Ghost editor</h2>
+                    <h2 class="post-card-title">Jack's Page</h2>
                 </header>
                 <section class="post-card-excerpt">
                     
@@ -531,13 +529,11 @@ into the {body} of the default.hbs template -->
                 
                     
                         
-                        <img class="author-profile-image" src="/blog/assets/images/ghost.png" alt="Ghost" />
+                        <img class="author-profile-image" src="/blog/assets/images/profile-pics/jack.jpg" alt="Jack Champagne" />
                         
                         <span class="post-card-author">
-                            <a href="/blog/author/ghost/">Ghost</a>
+                            <a href="/blog/author/jack/">Jack Champagne</a>
                         </span>
-                    
-                
                     
                 
                     
@@ -595,18 +591,18 @@ into the {body} of the default.hbs template -->
         </a>
     </div>
     <span class="floating-header-divider">&mdash;</span>
-    <div class="floating-header-title">Welcome to Ghost</div>
+    <div class="floating-header-title">Jeremy's Page</div>
     <div class="floating-header-share">
         <div class="floating-header-share-label">Share this <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
     <path d="M7.5 15.5V4a1.5 1.5 0 1 1 3 0v4.5h2a1 1 0 0 1 1 1h2a1 1 0 0 1 1 1H18a1.5 1.5 0 0 1 1.5 1.5v3.099c0 .929-.13 1.854-.385 2.748L17.5 23.5h-9c-1.5-2-5.417-8.673-5.417-8.673a1.2 1.2 0 0 1 1.76-1.605L7.5 15.5zm6-6v2m-3-3.5v3.5m6-1v2"/>
 </svg>
 </div>
-        <a class="floating-header-share-tw" href="https://twitter.com/share?text=Welcome+to+Ghost&amp;url=https://umass-makerspace.github.io/blog/welcome"
+        <a class="floating-header-share-tw" href="https://twitter.com/share?text=Jeremy%27s+Page&amp;url=https://umass-makerspace.github.io/blog/jeremy.html"
             onclick="window.open(this.href, 'share-twitter', 'width=550,height=235');return false;">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path d="M30.063 7.313c-.813 1.125-1.75 2.125-2.875 2.938v.75c0 1.563-.188 3.125-.688 4.625a15.088 15.088 0 0 1-2.063 4.438c-.875 1.438-2 2.688-3.25 3.813a15.015 15.015 0 0 1-4.625 2.563c-1.813.688-3.75 1-5.75 1-3.25 0-6.188-.875-8.875-2.625.438.063.875.125 1.375.125 2.688 0 5.063-.875 7.188-2.5-1.25 0-2.375-.375-3.375-1.125s-1.688-1.688-2.063-2.875c.438.063.813.125 1.125.125.5 0 1-.063 1.5-.25-1.313-.25-2.438-.938-3.313-1.938a5.673 5.673 0 0 1-1.313-3.688v-.063c.813.438 1.688.688 2.625.688a5.228 5.228 0 0 1-1.875-2c-.5-.875-.688-1.813-.688-2.75 0-1.063.25-2.063.75-2.938 1.438 1.75 3.188 3.188 5.25 4.25s4.313 1.688 6.688 1.813a5.579 5.579 0 0 1 1.5-5.438c1.125-1.125 2.5-1.688 4.125-1.688s3.063.625 4.188 1.813a11.48 11.48 0 0 0 3.688-1.375c-.438 1.375-1.313 2.438-2.563 3.188 1.125-.125 2.188-.438 3.313-.875z"/></svg>
 
         </a>
-        <a class="floating-header-share-fb" href="https://www.facebook.com/sharer/sharer.php?u=https://umass-makerspace.github.io/blog/welcome"
+        <a class="floating-header-share-fb" href="https://www.facebook.com/sharer/sharer.php?u=https://umass-makerspace.github.io/blog/jeremy.html"
             onclick="window.open(this.href, 'share-facebook','width=580,height=296');return false;">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path d="M19 6h5V0h-5c-3.86 0-7 3.14-7 7v3H8v6h4v16h6V16h5l1-6h-6V7c0-.542.458-1 1-1z"/></svg>
 
