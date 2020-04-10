@@ -8,7 +8,7 @@ This blog was started as the makerspace moved online during the COVID-19 pandemi
 
 ## Jasper2
 
-[![Build Status](https://travis-ci.org/UMass-Makerspace/blog2.svg?branch=master)](https://travis-ci.org/umass-makerspace/blog2)
+[![Build Status](https://travis-ci.org/UMass-Makerspace/blog.svg?branch=master)](https://travis-ci.org/umass-makerspace/blog)
 [![Ruby](https://img.shields.io/badge/ruby-2.5.1-blue.svg?style=flat)](http://travis-ci.org/umass-makerspace/blog2/)
 [![Jekyll](https://img.shields.io/badge/jekyll-3.7.4-blue.svg?style=flat)](http://travis-ci.org/umass-makerspace/blog2)
 
