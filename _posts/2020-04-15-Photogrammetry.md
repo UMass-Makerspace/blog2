@@ -10,7 +10,7 @@ class: post-template
 subclass: 'post tag-articles'
 author: tyler
 ---
-##The Surprisingly Simple Process of 3D Modeling with Photogrammetry
+## The Surprisingly Simple Process of 3D Modeling with Photogrammetry
 
 Have you ever seen something or someone and thought, “Hey… I’d like to turn this into a 3D model that I can print”. Well think no more, I’m going to tell you how to get started, all you need is a smartphone and a computer. 
 
@@ -20,4 +20,4 @@ Anyway, I used Agisoft Metashape to get started. It is a great product with a 30
 with Linux, Mac, and Windows. Give it a Google
 search and find the free trial install.
 
-###Choose your Subject
+### Choose your Subject
