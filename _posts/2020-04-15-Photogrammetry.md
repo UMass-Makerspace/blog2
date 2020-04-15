@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  assets/images/bulletinboard.jpg
+cover:  assets/images/photogram/photogram-finished.png
 navigation: True
 title: The Surprisingly Simple Process of 3D Modeling with Photogrammetry
 date: 2020-04-08 05:05:00
