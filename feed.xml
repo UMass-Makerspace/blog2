@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="/blog/" rel="alternate" type="text/html" /><updated>2020-04-15T16:28:42+00:00</updated><id>/blog/</id><title type="html">UMass Amherst Makerspace</title><subtitle>UMass Amherst Makerspace Blog</subtitle><entry><title type="html">The Worst Car Ever Made</title><link href="/blog/Trabant" rel="alternate" type="text/html" title="The Worst Car Ever Made" /><published>2020-04-10T01:11:00+00:00</published><updated>2020-04-10T01:11:00+00:00</updated><id>/blog/Trabant</id><content type="html" xml:base="/blog/Trabant">&lt;p&gt;Hello! Welcome to the Makerspace Automotive Newsletter! I’m Julius and I’m here to bring you an occasional blog post to teach you about automotive history, talk about current interesting innovations and happenings in the world of cars, and generally provide my commentary on all things automotive. Be it electric, gas, sedan, pickup, commuter or race, it’s like the wild freaking west out here and nothing is off limits….&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="/blog/" rel="alternate" type="text/html" /><updated>2020-04-15T16:43:00+00:00</updated><id>/blog/</id><title type="html">UMass Amherst Makerspace</title><subtitle>UMass Amherst Makerspace Blog</subtitle><entry><title type="html">The Worst Car Ever Made</title><link href="/blog/Trabant" rel="alternate" type="text/html" title="The Worst Car Ever Made" /><published>2020-04-10T01:11:00+00:00</published><updated>2020-04-10T01:11:00+00:00</updated><id>/blog/Trabant</id><content type="html" xml:base="/blog/Trabant">&lt;p&gt;Hello! Welcome to the Makerspace Automotive Newsletter! I’m Julius and I’m here to bring you an occasional blog post to teach you about automotive history, talk about current interesting innovations and happenings in the world of cars, and generally provide my commentary on all things automotive. Be it electric, gas, sedan, pickup, commuter or race, it’s like the wild freaking west out here and nothing is off limits….&lt;/p&gt;
 
 &lt;p&gt;Anyways, to kick things off I figured we could start with a little snippet of automotive history. A particular vehicle near and dear to my heart. The worst car ever made: &lt;strong&gt;The Trabant&lt;/strong&gt;.&lt;/p&gt;
 
@@ -72,12 +72,45 @@
 &lt;p&gt;Have you ever seen something or someone and thought, “Hey… I’d like to turn this into a 3D model that I can print”. Well think no more, I’m going to tell you how to get started, all you need is a smartphone and a computer.&lt;/p&gt;
 
 &lt;p&gt;I got started using a drone, where images from above can provide quick and highly accurate models of large areas and buildings. But, the concepts are scalable, and a phone camera works just fine for small objects and people. 
-&lt;img src=&quot;assets/images/agisoft-screenshot.png&quot; alt=&quot;Figure 1: Click on &amp;quot;Try it now&amp;quot; to start the free trial and download the product.&quot; /&gt;
+&lt;img src=&quot;assets/images/photogram/agisoft-screenshot.png&quot; alt=&quot;Figure 1: Click on &amp;quot;Try it now&amp;quot; to start the free trial and download the product.&quot; /&gt;
 Anyway, I used Agisoft Metashape to get started. It is a great product with a 30-day free trial and a very quick, easy download which is compatible
 with Linux, Mac, and Windows. Give it a Google
 search and find the free trial install.&lt;/p&gt;
 
-&lt;h3 id=&quot;choose-your-subject&quot;&gt;Choose your Subject&lt;/h3&gt;</content><author><name>Tyler Kerwin</name></author><category term="articles" /><summary type="html">The Surprisingly Simple Process of 3D Modeling with Photogrammetry</summary></entry><entry><title type="html">Meet our staff!</title><link href="/blog/staff-board" rel="alternate" type="text/html" title="Meet our staff!" /><published>2020-04-08T05:05:00+00:00</published><updated>2020-04-08T05:05:00+00:00</updated><id>/blog/staff-board</id><content type="html" xml:base="/blog/staff-board">&lt;p&gt;Meet our staff! Here you can find a picture and a quick description of everyone in the makerspace staff, along with an email for each if you have any questions.&lt;/p&gt;
+&lt;h3 id=&quot;choose-your-subject&quot;&gt;Choose your Subject&lt;/h3&gt;
+&lt;p&gt;Once you have Metashape installed, it is time to choose your object or person. I have found that people work best for 3D modeling using smartphones because of the texture, size, opacity, and reflectivity of human faces, but the right object can work just as well given the right circumstances. Professional photogrammeters use rigs in order to perfectly capture every angle of an object with a consistently lit surface.
+&lt;img src=&quot;assets/images/photogram/camera-setup.png&quot; alt=&quot;Figure 2: This is a very professional setup as an example of stationary cameras and stationary subjects.&quot; /&gt;
+For the purposes of this post, however, we leave the object or person stationary on the floor (or standing) and rotate the camera around it/them at many different (eyeballed) angles.
+&lt;img src=&quot;assets/images/photogram/at-home.png&quot; alt=&quot;Figure 3: In this setup, a small object remains stationary while the camera rotates around it at set angles, with the same background.&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;a-good-subject-means-that-it-is&quot;&gt;A good subject means that it is:&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/photogram/face.png&quot; alt=&quot;&quot; /&gt;
+-A person: people work really well in amateur photogrammetry processes because of likely bad lighting and the effectiveness of handheld smartphone cameras. This screenshot is my second attempt at a person. I only used about 65 images, and got subpar results, which is much better than it could have gone using so few images and terrible lighting.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/photogram/weird-fuckin-thing.png&quot; alt=&quot;&quot; /&gt;
+-A larger object with low reflectivity and high opacity. Smaller objects don’t work as well with poor lighting and background because Metashape can’t tell what is the floor or what is the object – in other words, the depth is bad. Photogrammetric software has a lot of trouble understanding why reflective and see-through objects look so different from different angles. This table was the first object I attempted to model, it has a transparent glass top. It came out terrible – like a muffin too big for its container. This is because Metashape couldn’t understand what images belonged where in the model due to the see-through top.&lt;/p&gt;
+
+&lt;h3 id=&quot;take-the-photos&quot;&gt;Take the Photos&lt;/h3&gt;
+
+&lt;p&gt;Now that you have your subject, find a wide open area with pretty consistent lightning. So, close windows, turn on overhead lights, and clear an area with about a 3foot radius around your subject, you will need more room than you think. If it’s cloudy outside, then that is perfect.
+&lt;img src=&quot;assets/images/photogram/garage.png&quot; alt=&quot;Figure 4: Garages are great!&quot; /&gt;
+Next take out your smartphone and photograph the subject! For the purpose of this, just have the subject stay stationary and rotate around with your camera. Auto settings are fine. The idea is to photograph 360 degrees around your subject at many different angles. So directly above (90 degrees), then slightly lower at about 65 degrees, then 35 degrees, then 0 degrees. This doesn’t have to be exact; the models will likely look like a first try. Try to get a decent amount of overlap as you rotate around the subject, but about 50 photos is plenty for your first model.&lt;/p&gt;
+
+&lt;h3 id=&quot;upload-and-process-in-metashape&quot;&gt;Upload and Process in Metashape&lt;/h3&gt;
+
+&lt;p&gt;The hard part is over! Next, import your photos to Metashape as indicated in the figure below.
+&lt;img src=&quot;assets/images/photogram/metashape.png&quot; alt=&quot;&quot; /&gt;
+The rest of the process is very simple, but it does take time. Basically it will all be done in the workflow tab: 
+&lt;img src=&quot;assets/images/photogram/selection.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Select them, and apply the processes in descending order. So, align the photos, then build dense cloud, then mesh, then texture. Each process will make the model look more and more like the real thing. Note: you must continuously crop during each step. You can do this very easily by using the crop tool: 
+After you select points and areas which will be of the room you are modeling in, click the X two spaces the the right of the crop tool. This will delete the selected points. Alternatively, select the parts you want to keep and click the “crop selected” button three to the right of the crop tool in order to delete everything other than the selected. If you crop nothing, you will get something like this: 
+&lt;img src=&quot;assets/images/photogram/photogram-finished.png&quot; alt=&quot;&quot; /&gt;
+After each step, you can view progress by selecting “point cloud”, “dense cloud”, and “texture/mesh” views: 
+&lt;img src=&quot;assets/images/photogram/textures.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Another note: To hide the weird blue squares (which actually indicate where the picture was take and what angle relative to the subject), grid, and trackball, simply click Model 🡪 Show/hide items and then click whatever you don’t want to see anymore.&lt;/p&gt;</content><author><name>Tyler Kerwin</name></author><category term="articles" /><summary type="html">The Surprisingly Simple Process of 3D Modeling with Photogrammetry</summary></entry><entry><title type="html">Meet our staff!</title><link href="/blog/staff-board" rel="alternate" type="text/html" title="Meet our staff!" /><published>2020-04-08T05:05:00+00:00</published><updated>2020-04-08T05:05:00+00:00</updated><id>/blog/staff-board</id><content type="html" xml:base="/blog/staff-board">&lt;p&gt;Meet our staff! Here you can find a picture and a quick description of everyone in the makerspace staff, along with an email for each if you have any questions.&lt;/p&gt;
 &lt;h2&gt;Kay Bros&lt;/h2&gt;
 &lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/UMass-Makerspace/blog2/master/assets/images/profile-pics/kay.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;(she/her/hers)&lt;/p&gt;
