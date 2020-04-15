@@ -54,4 +54,10 @@ After each step, you can view progress by selecting “point cloud”, “dense 
 ![](assets/images/photogram/textures.png)
 
 Another note: To hide the weird blue squares (which actually indicate where the picture was take and what angle relative to the subject), grid, and trackball, simply click Model 🡪 Show/hide items and then click whatever you don’t want to see anymore. 
+![](assets/images/photogram/fix.png)
+Default settings will be fine for this, with medium accuracy all around the board for quicker processing times. If you want a really crisp model, then increase the accuracy levels and it is very important to increase tie point limit and key tie point limit under advanced settings during the align photos phase (around 80,000+ and 10,000+ respectively).
 
+So, if you are still with me, you should be able to make a pretty good 3D model! If you try, and the photos don’t align (I usually look for about 80% of photos to align) or the model comes out terrible, it unfortunately is likely due to poor photos. There is no solution around that other than retake the photos in a different space with potentially a different object. But, that is the best way to learn what works and what doesn’t! 
+
+If you so desire, these files can be exported and done with as you please. In the coming weeks, a new blog post and workshop will be posted on how to 3D print these files. So we can essentially 3D print a human. The week after that will be giving it artificial intelligence, then you can have your very own UMass makerspace clone!
+![](assets/images/photogram/spiderman-pointing.png)
