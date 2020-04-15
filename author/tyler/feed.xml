@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="/blog/author/tyler/feed.xml" rel="self" type="application/atom+xml" />
   <link href="/blog/" rel="alternate" type="text/html" />
-  <updated>2020-04-15T16:43:00+00:00</updated>
+  <updated>2020-04-15T16:50:11+00:00</updated>
   <id>/blog/author/tyler/feed.xml</id>
 
   
@@ -108,7 +108,14 @@ After you select points and areas which will be of the room you are modeling in,
 After each step, you can view progress by selecting “point cloud”, “dense cloud”, and “texture/mesh” views: 
 &lt;img src=&quot;assets/images/photogram/textures.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Another note: To hide the weird blue squares (which actually indicate where the picture was take and what angle relative to the subject), grid, and trackball, simply click Model 🡪 Show/hide items and then click whatever you don’t want to see anymore.&lt;/p&gt;</content>
+&lt;p&gt;Another note: To hide the weird blue squares (which actually indicate where the picture was take and what angle relative to the subject), grid, and trackball, simply click Model 🡪 Show/hide items and then click whatever you don’t want to see anymore. 
+&lt;img src=&quot;assets/images/photogram/fix.png&quot; alt=&quot;&quot; /&gt;
+Default settings will be fine for this, with medium accuracy all around the board for quicker processing times. If you want a really crisp model, then increase the accuracy levels and it is very important to increase tie point limit and key tie point limit under advanced settings during the align photos phase (around 80,000+ and 10,000+ respectively).&lt;/p&gt;
+
+&lt;p&gt;So, if you are still with me, you should be able to make a pretty good 3D model! If you try, and the photos don’t align (I usually look for about 80% of photos to align) or the model comes out terrible, it unfortunately is likely due to poor photos. There is no solution around that other than retake the photos in a different space with potentially a different object. But, that is the best way to learn what works and what doesn’t!&lt;/p&gt;
+
+&lt;p&gt;If you so desire, these files can be exported and done with as you please. In the coming weeks, a new blog post and workshop will be posted on how to 3D print these files. So we can essentially 3D print a human. The week after that will be giving it artificial intelligence, then you can have your very own UMass makerspace clone!
+&lt;img src=&quot;assets/images/photogram/spiderman-pointing.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content>
 
       
       
