@@ -3,7 +3,7 @@ layout: post
 current: post
 cover:  assets/images/nanoleaf/nano-wall.png
 navigation: True
-title: Nanoleaf: blog 1
+title: Nanoleaf pt 1
 date: 2020-04-18 16:00:00
 tags: [nanoleaf]
 class: post-template
