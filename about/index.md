@@ -14,4 +14,4 @@ Due to COVID-19, we are going online!
 
 > The UMass Amherst Makerspace provides tools, space, and mentorship to the campus community. It's a place for hands-on learning; for personal and academic projects; for meeting people; and for woodworking, sewing, 3D printing, and so much more. Our collection of tools and our community knowledge base is always growing. Come visit and make something amazing.
 
-Check out our [google site](https://sites.google.com/umass.edu/all-campus-makerspace) as well!
+Check out our [google site](https://sites.google.com/umass.edu/umassmakerspace) as well!
